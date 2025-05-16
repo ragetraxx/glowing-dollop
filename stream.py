@@ -12,21 +12,15 @@ RETRY_DELAY = 60
 
 # ✅ Check if RTMP_URL is set
 if not RTMP_URL:
-    print("❌ ERROR: RTMP_URL environment variable is NOT set! Check configuration.")
+    print("❌ ERROR: RTMP_URL environment variable is NOT set!")
+    print("🛠️  Tip: Make sure your GitHub Actions workflow includes:\n  env:\n    RTMP_URL: ${{ secrets.RTMP_URL }}")
     exit(1)
 
 # ✅ Ensure required files exist
-if not os.path.exists(PLAY_FILE):
-    print(f"❌ ERROR: {PLAY_FILE} not found!")
-    exit(1)
-
-if not os.path.exists(OVERLAY):
-    print(f"❌ ERROR: Overlay image '{OVERLAY}' not found!")
-    exit(1)
-
-if not os.path.exists(FONT_PATH):
-    print(f"❌ ERROR: Font file '{FONT_PATH}' not found!")
-    exit(1)
+for path, label in [(PLAY_FILE, "Play file"), (OVERLAY, "Overlay image"), (FONT_PATH, "Font file")]:
+    if not os.path.exists(path):
+        print(f"❌ ERROR: {label} '{path}' not found!")
+        exit(1)
 
 def load_movies():
     """Load all movies from play.json."""
@@ -65,6 +59,8 @@ def stream_movie(movie):
     ]
 
     print(f"🎬 Now Streaming: {title}")
+    # Uncomment for debugging FFmpeg command:
+    # print("FFmpeg Command:", " ".join(command))
 
     try:
         process = subprocess.Popen(command, stdout=subprocess.DEVNULL, stderr=subprocess.PIPE, text=True)
@@ -89,9 +85,9 @@ def main():
         movie = movies[index]
         stream_movie(movie)
 
-        # Move to the next movie, looping back if at the end
         index = (index + 1) % len(movies)
         print("🔄 Movie ended. Playing next movie...")
 
 if __name__ == "__main__":
+    print(f"✅ RTMP_URL is: {RTMP_URL}")  # Temporary debug
     main()
