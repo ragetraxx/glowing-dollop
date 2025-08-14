@@ -54,10 +54,10 @@ def build_ffmpeg_command(url, title):
         "-i", url,
         "-i", OVERLAY,
         "-filter_complex",
-        f"[0:v]scale=640:360:flags=lanczos,unsharp=5:5:0.8:5:5:0.0[v];"
-        f"[1:v]scale=640:360[ol];"
+        f"[0:v]scale=1280:720:flags=lanczos,unsharp=5:5:0.8:5:5:0.0[v];"
+        f"[1:v]scale=1280:720[ol];"
         f"[v][ol]overlay=0:0[vo];"
-        f"[vo]drawtext=fontfile='{FONT_PATH}':text='{text}':fontcolor=white:fontsize=10:x=35:y=35",
+        f"[vo]drawtext=fontfile='{FONT_PATH}':text='{text}':fontcolor=white:fontsize=15:x=35:y=35",
         "-r", "29.97003",
         "-c:v", "libx264",
         "-profile:v", "high",
