@@ -1,28 +1,26 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/j7agkgWKynzLiAV7km2gWnVmugS.jpg",
+        "title": "Shoot Shoot!",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/481.mp4"
+    },
+    {
+        "title": "The Rivals Of The Silver Fox (Dubbed in Tagalog)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/DIMRivalsOfTheSilverFoxTGFULL10mbps/playlist.m3u8"
+    },
+    {
+        "title": "Connected (Dubbed in Tagalog)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/WPEConnectedTGFULL10mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/3ja9jRtrEhe7eF5Db4zpgsg1El5.jpg",
         "category": "Pinoy Films",
-        "title": "Death of Nintendo (2020)",
-        "url": "https://pkaystream.cc/pl/HHMYC_JIKm/720?e="
+        "title": "Day Zero (2022)",
+        "url": "https://pkaystream.cc/pl/uWd-2SL0wt/720?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/vCwbsgkdzpgTADyaa3g4jaWVAaR.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/zXsJZa7M43xJPS9l5Emcp1IxDOS.jpg",
         "category": "Pinoy Films",
-        "title": "Heneral Luna (2015)",
-        "url": "https://pkaystream.cc/pl/YFmHp2VJcB/720?e="
-    },
-    {
-        "title": "A Journey",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/7272.mp4"
-    },
-    {
-        "title": "Parehas Ang Laban",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARParehasAngLabanTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/8qQoigz5EuFvcLnXy4FXLZCZNSd.jpg",
-        "category": "Pinoy Films",
-        "title": "I'm Drunk, I Love You (2017)",
-        "url": "https://pkaystream.cc/pl/87KOOVBSGp/720?e="
+        "title": "The Ghost Bride (2017)",
+        "url": "https://pkaystream.cc/pl/GByexFqYQo/720?e="
     }
 ]
