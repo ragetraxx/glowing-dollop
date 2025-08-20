@@ -1,26 +1,30 @@
 [
     {
-        "title": "Shoot Shoot!",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/481.mp4"
-    },
-    {
-        "title": "The Rivals Of The Silver Fox (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/DIMRivalsOfTheSilverFoxTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "title": "Connected (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/WPEConnectedTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/3ja9jRtrEhe7eF5Db4zpgsg1El5.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/98NynscUUYUcNbwY1NLAhjPBsCt.jpg",
         "category": "Pinoy Films",
-        "title": "Day Zero (2022)",
-        "url": "https://pkaystream.cc/pl/uWd-2SL0wt/720?e="
+        "title": "Mary, Marry Me (2018)",
+        "url": "https://pkaystream.cc/pl/qI-LXUxlL5/720?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/zXsJZa7M43xJPS9l5Emcp1IxDOS.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/5MzVZUMGlSsNy3c4hxKzFj1qFFd.jpg",
         "category": "Pinoy Films",
-        "title": "The Ghost Bride (2017)",
-        "url": "https://pkaystream.cc/pl/GByexFqYQo/720?e="
+        "title": "You Have Arrived (2019)",
+        "url": "https://pkaystream.cc/pl/xp2BUm5oST/720?e="
+    },
+    {
+        "title": "Bitag, Babae, at Bala",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/BITAGBABAEATBALAFULLMOVIEJESTONIALARCONCOLLECTION/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/qoe7Xw0V6PG9Ev4t3s78KtwVDH6.jpg",
+        "category": "Pinoy Films",
+        "title": "Yung Libro sa Napanood Ko (2023)",
+        "url": "https://pkaystream.cc/pl/ScMZl23DQe/720?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/fELjp7LpQv8g5JENmRk6SMI7nFj.jpg",
+        "category": "Pinoy Films",
+        "title": "And the Breadwinner Is... (2025)",
+        "url": "https://pkaystream.cc/pl/25gIdO1h5G/720?e="
     }
 ]
