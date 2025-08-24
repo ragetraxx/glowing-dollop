@@ -1,28 +1,24 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/bKfnlEoZHewglGvNmWvnJ9X1Bt7.jpg",
+        "title": "Code Name: Palaban",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARCodeNamePalabanTGFull25mbps/playlist.m3u8"
+    },
+    {
+        "title": "Bilog Na Naman Ang Buwan",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARBILOGNANAMANANGBUWANFULL10mbps/playlist.m3u8"
+    },
+    {
+        "title": "Love or Money",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/596.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/89jXZYnP7RB6xTHhZCMUxk14HaZ.jpg",
         "category": "Pinoy Films",
-        "title": "Ma' Rosa (2016)",
-        "url": "https://pkaystream.cc/pl/ZRTzAXjqQH/720?e="
+        "title": "A Second Chance (2015)",
+        "url": "https://pkaystream.cc/pl/nVau7knYEY/720?e="
     },
     {
-        "title": "Love the Way U Lie",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/130.mp4"
-    },
-    {
-        "title": "Mahinhin Vs Mahinhin",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARMahinhinVSMahinhinTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/gbmqUFm609fJoqoiwc4Bj9st0lA.jpg",
-        "category": "Pinoy Films",
-        "title": "Magnifico (2003)",
-        "url": "https://pkaystream.cc/pl/M66KoO7Tar/720?e="
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/n5nZ6wtfrkY0xo79lSrO3Jto0nD.jpg",
-        "category": "Pinoy Films",
-        "title": "Motel Acacia (2019)",
-        "url": "https://pkaystream.cc/pl/YEd90r1dFZ/720?e="
+        "title": "Nothing Like Paris",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/7267.mp4"
     }
 ]
