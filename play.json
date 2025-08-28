@@ -1,28 +1,30 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/6S4gyEQbazOt5fBBj1p4knSPGRS.jpg",
+        "title": "Deadly Roses",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARDeadlyRosesTGSanitized25mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/vl3MMPcYMVhSmoyby3eaI6CPbGT.jpg",
         "category": "Pinoy Films",
-        "title": "Ang Pagsanib kay Leah Dela Cruz (2017)",
-        "url": "https://pkaystream.cc/pl/DT_94mFjeB/720?e="
+        "title": "The Super Parental Guardians (2016)",
+        "url": "https://pkaystream.cc/pl/8AAVoSTubi/720?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/lgtpPXrGNc4dRlXSbR04DljlvYq.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/sziLF3lbukv5f8mEbbG3sV0Cheh.jpg",
         "category": "Pinoy Films",
-        "title": "My Lady Boss (2013)",
-        "url": "https://pkaystream.cc/pl/-_31DSxBqs/720?e="
+        "title": "Men Are From QC, Women Are From Alabang (2024)",
+        "url": "https://pkaystream.cc/pl/-jCvubXkTP/720?e="
     },
     {
-        "title": "Baricuatro: Batang Cebu .45",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARBaricuatroTGSanitized10mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/hBdxtcKyIyFzGvgsHQFk0AuhDFw.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/a2KwBZqjyhBmWFmifZWJS8UO2M1.jpg",
         "category": "Pinoy Films",
-        "title": "Us, at The End of the Year (2019)",
-        "url": "https://pkaystream.cc/pl/JYoU7AecOg/720?e="
+        "title": "The Fabulous Filipino Brothers (2021)",
+        "url": "https://pkaystream.cc/pl/2QVDumUxAE/720?e="
     },
     {
-        "title": "Losers-1, Sucker-0",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/502.mp4"
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/b0Ms9JS4Z4NOsMlyWEiF0evdhvi.jpg",
+        "category": "Pinoy Films",
+        "title": "Love Child (2024)",
+        "url": "https://pkaystream.cc/pl/r3_rXKw2RM/720?e="
     }
 ]
