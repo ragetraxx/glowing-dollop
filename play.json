@@ -1,28 +1,26 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/1KvKVI9bTAgvYDHZO6QkCPXF7uD.jpg",
+        "title": "I Love Lizzy",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/594.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/hpuDoV3npVRpWdO96PRbgvlGMJe.jpg",
         "category": "Pinoy Films",
-        "title": "It Takes a Man and a Woman (2013)",
-        "url": "https://pkaystream.cc/pl/KDFWtFb-PS/720?e="
+        "title": "Aswang (2019)",
+        "url": "https://pkaystream.cc/pl/GpmgmXpGoo/720?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/gEpevm26F3n8LMzzPSr668IMi3y.jpg",
+        "title": "The Rise and Fall of Bigtime Berto",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/bigtimebertoforyoutube/playlist.m3u8"
+    },
+    {
+        "title": "Magdaleno Orbos: Sa Kuko Ng Mga Lawin",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARMagdalenoOrbosTGSanitized15mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/eggMe506MiKRzDKuY1yAO71sUGY.jpg",
         "category": "Pinoy Films",
-        "title": "RED (2024)",
-        "url": "https://pkaystream.cc/pl/CN2AOSNXaA/720?e="
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/8pPcBBiQ1XdHTcRBgU8WrHkiGEv.jpg",
-        "category": "Pinoy Films",
-        "title": "Kita Kita (2017)",
-        "url": "https://pkaystream.cc/pl/AaiIrxtoFq/720?e="
-    },
-    {
-        "title": "The Boarder (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/WPETheBoarderTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "title": "Outside",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/14711.mp4"
+        "title": "A Very Special Love (2008)",
+        "url": "https://pkaystream.cc/pl/Rfehd21e9y/720?e="
     }
 ]
