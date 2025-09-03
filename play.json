@@ -1,28 +1,26 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/7XOwbJSM36zWGGaJCJgj0SytvkE.jpg",
+        "title": "Elevator",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/13372.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/mLVfio0vOlOME4hxS1UA0QxRnTb.jpg",
         "category": "Pinoy Films",
-        "title": "Under Parallel Skies (2024)",
-        "url": "https://pkaystream.cc/pl/pq819r-GTf/720?e="
+        "title": "Nokturno (2024)",
+        "url": "https://pkaystream.cc/pl/DysNsn-lgI/720?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/98NynscUUYUcNbwY1NLAhjPBsCt.jpg",
+        "title": "Missed Connections",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/7268.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/cc05MbgA0pSIy1Qwcn9BfWJJgl7.jpg",
         "category": "Pinoy Films",
-        "title": "Mary, Marry Me (2018)",
-        "url": "https://pkaystream.cc/pl/qI-LXUxlL5/720?e="
+        "title": "Here and There (2021)",
+        "url": "https://pkaystream.cc/pl/JeoWM9iaEs/720?e="
     },
     {
-        "title": "Bilog Na Naman Ang Buwan",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARBILOGNANAMANANGBUWANFULL10mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/2UJ466zim5AL46h7gJmejC5oHtj.jpg",
-        "category": "Pinoy Films",
-        "title": "Kidnap For Romance (2023)",
-        "url": "https://pkaystream.cc/pl/jkeqemMsK2/720?e="
-    },
-    {
-        "title": "Karelasyon",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARKarelasyonTGFULL25mbps/playlist.m3u8"
+        "title": "Iskrokotoy",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARISKOROKOTOYTGFULL10mbps/playlist.m3u8"
     }
 ]
