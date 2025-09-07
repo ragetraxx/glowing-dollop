@@ -1,24 +1,28 @@
 [
     {
-        "title": "Pangil",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNFangTGFULL5mbps/playlist.m3u8"
+        "title": "Chick Boy",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARChickBoyFULL10mbps/playlist.m3u8"
     },
     {
-        "title": "Magkasangga 2000",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARMagkasanggaSaBatasTGSanitized10mbps/playlist.m3u8"
-    },
-    {
-        "title": "Mariang Kondesa",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARMariangKondesaTGFULL25mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/yq5LxJ9G7tss9Ab3JpL75unuxJV.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/a2KwBZqjyhBmWFmifZWJS8UO2M1.jpg",
         "category": "Pinoy Films",
-        "title": "Virgin People (1984)",
-        "url": "https://pkaystream.cc/pl/ELdKN_a7jl/720?e="
+        "title": "The Fabulous Filipino Brothers (2021)",
+        "url": "https://pkaystream.cc/pl/2QVDumUxAE/720?e="
     },
     {
-        "title": "Anak Ng Kumander",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARAnakNgKumanderFULL10mbps/playlist.m3u8"
+        "title": "What If?",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/953.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/8EuKlaYo53CDFAKbxzkQ8r2bSUP.jpg",
+        "category": "Pinoy Films",
+        "title": "Birdshot (2016)",
+        "url": "https://pkaystream.cc/pl/_4P1Eve1bP/720?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/sziLF3lbukv5f8mEbbG3sV0Cheh.jpg",
+        "category": "Pinoy Films",
+        "title": "Men Are From QC, Women Are From Alabang (2024)",
+        "url": "https://pkaystream.cc/pl/-jCvubXkTP/720?e="
     }
 ]
