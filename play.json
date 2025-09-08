@@ -1,26 +1,26 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/a1Eubtd5zCISRsGxpd3CiAYkBao.jpg",
+        "title": "Heneral Luna",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/7270.mp4"
+    },
+    {
+        "title": "Ang Dalawang Mrs. Reyes",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/61.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/fSpsnaYZydcpBwMDkgpWRhwlNC.jpg",
         "category": "Pinoy Films",
-        "title": "Lolo and the Kid (2024)",
-        "url": "https://pkaystream.cc/pl/FbnIkxgkT2/720?e="
+        "title": "Love Lockdown (2020)",
+        "url": "https://pkaystream.cc/pl/mOlltxNLs2/720?e="
     },
     {
-        "title": "Ang Babaeng Hinugot Sa Aking Tadyang",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARANGBABAINGHINUGOTSAAKINGTADYANGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "title": "Missed Connections",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/7268.mp4"
-    },
-    {
-        "title": "Karelasyon",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARKarelasyonTGFULL25mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/29IpnkqWIkFvSlynGu7X6ylAdiL.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/zgaRu1fNiMF3axvlOLh3Nns8UIG.jpg",
         "category": "Pinoy Films",
-        "title": "Ballot (2024)",
-        "url": "https://pkaystream.cc/pl/lALprfvjzr/720?e="
+        "title": "Between Maybes (2019)",
+        "url": "https://pkaystream.cc/pl/Xf4dbvJC9s/720?e="
+    },
+    {
+        "title": "Always",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/500.mp4"
     }
 ]
