@@ -1,28 +1,24 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/98NynscUUYUcNbwY1NLAhjPBsCt.jpg",
+        "title": "The Rise and Fall of Bigtime Berto",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/bigtimebertoforyoutube/playlist.m3u8"
+    },
+    {
+        "title": "Ang Sumpa ng Sirena (The Mermaid's Curse)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNTheMermaidsCurseTGFULL5mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/fSpsnaYZydcpBwMDkgpWRhwlNC.jpg",
         "category": "Pinoy Films",
-        "title": "Mary, Marry Me (2018)",
-        "url": "https://pkaystream.cc/pl/qI-LXUxlL5/720?e="
+        "title": "Love Lockdown (2020)",
+        "url": "https://pkaystream.cc/pl/mOlltxNLs2/720?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/d6aiEgFoFfWrdXwxdn52mTfDCnx.jpg",
-        "category": "Pinoy Films",
-        "title": "Three Words to Forever (2018)",
-        "url": "https://pkaystream.cc/pl/m22z--ck3-/720?e="
+        "title": "Outside",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/14711.mp4"
     },
     {
-        "title": "Partners in Crime",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/480.mp4"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/kmnH8KmoiM7VpHZAADiTPWbpFGl.jpg",
-        "category": "Pinoy Films",
-        "title": "Yellow Rose (2019)",
-        "url": "https://pkaystream.cc/pl/1MFPS3A1e3/720?e="
-    },
-    {
-        "title": "Dalmacio Armas",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/DALMACIOARMASFULLMOVIEStarringRamonZamoraGinaAlajarRolandDantesRobertTalabisR/playlist.m3u8"
+        "title": "Un/Happy For You",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/15621.mp4"
     }
 ]
