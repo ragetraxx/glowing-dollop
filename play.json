@@ -1,26 +1,28 @@
 [
     {
-        "title": "Tayo Na Sa Dilim",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARTayonasadilimFulldMCSD242997tlPH20LK/playlist.m3u8"
+        "title": "Metro Manila",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/8880.mp4"
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/bKfnlEoZHewglGvNmWvnJ9X1Bt7.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/ActeqKqVvMY7jdAtBfvdWBrOaeC.jpg",
         "category": "Pinoy Films",
-        "title": "Ma' Rosa (2016)",
-        "url": "https://pkaystream.cc/pl/ZRTzAXjqQH/720?e="
+        "title": "Everything About Her (2016)",
+        "url": "https://pkaystream.cc/pl/DzKof9tTLf/720?e="
     },
     {
-        "title": "Chick Boy",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARChickBoyFULL10mbps/playlist.m3u8"
-    },
-    {
-        "title": "SGT. Lito Amar: Kamandag Ng Dagat-Dagatan",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/ATB4FilmsInternationalLitoAmarKamandagNgDagatdagatanTGPHFullLowbit/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/bHSLUElWl3CDG05mgM6d4wBrSGO.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/p6rsyWXAbFeE7lj9BTc9xpKzLoe.jpg",
         "category": "Pinoy Films",
-        "title": "The Missing (2020)",
-        "url": "https://pkaystream.cc/pl/Wiq8_Yz_pG/720?e="
+        "title": "Till There Was You (2003)",
+        "url": "https://pkaystream.cc/pl/9VqF_k5tGK/720?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/xj06CIlkAsozJAbl8Ovw2aXCg29.jpg",
+        "category": "Pinoy Films",
+        "title": "Finding Agnes (2020)",
+        "url": "https://pkaystream.cc/pl/VQNQoYSFtz/720?e="
+    },
+    {
+        "title": "Mary Cherry Chua",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/3051.mp4"
     }
 ]
