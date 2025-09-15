@@ -1,28 +1,24 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/8pPcBBiQ1XdHTcRBgU8WrHkiGEv.jpg",
+        "title": "Utol",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARUTOLFULL10mbps/playlist.m3u8"
+    },
+    {
+        "title": "Matandang Barako, Hindi Pa Buro!",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARMatandangBarakoHindiPaBuroTGFull25mbps/playlist.m3u8"
+    },
+    {
+        "title": "Ang Babaeng Hinugot Sa Aking Tadyang",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARANGBABAINGHINUGOTSAAKINGTADYANGFULL10mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/zsCbJ0N1nDTTntAVgUxEWCmlCh6.jpg",
         "category": "Pinoy Films",
-        "title": "Kita Kita (2017)",
-        "url": "https://pkaystream.cc/pl/AaiIrxtoFq/720?e="
+        "title": "El Presidente (2012)",
+        "url": "https://pkaystream.cc/pl/h6rY1O4p7O/720?e="
     },
     {
-        "title": "Cain At Abel",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARCainatAbelTGSanitized15mbps/playlist.m3u8"
-    },
-    {
-        "title": "Heneral Luna",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/7270.mp4"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/tbBoJnQiqCcLYSySmyWi2qduqiQ.jpg",
-        "category": "Pinoy Films",
-        "title": "Kiss in the Wind (2015)",
-        "url": "https://pkaystream.cc/pl/_3hlGlw-km/720?e="
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/hZZHvrb3aSUkbkk7IgKYsrplmyE.jpg",
-        "category": "Pinoy Films",
-        "title": "Shake Rattle and Roll Fourteen: The Invasion (2012)",
-        "url": "https://pkaystream.cc/pl/lfz35kx4OL/720?e="
+        "title": "Waray",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARWarayFULL10mbps/playlist.m3u8"
     }
 ]
