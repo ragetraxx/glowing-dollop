@@ -1,24 +1,30 @@
 [
     {
-        "title": "Utol",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARUTOLFULL10mbps/playlist.m3u8"
-    },
-    {
-        "title": "Matandang Barako, Hindi Pa Buro!",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARMatandangBarakoHindiPaBuroTGFull25mbps/playlist.m3u8"
-    },
-    {
-        "title": "Ang Babaeng Hinugot Sa Aking Tadyang",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARANGBABAINGHINUGOTSAAKINGTADYANGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/zsCbJ0N1nDTTntAVgUxEWCmlCh6.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/jKHxnjDiKUNAkTQmeP1gCwpB7oD.jpg",
         "category": "Pinoy Films",
-        "title": "El Presidente (2012)",
-        "url": "https://pkaystream.cc/pl/h6rY1O4p7O/720?e="
+        "title": "The Achy Breaky Hearts (2016)",
+        "url": "https://pkaystream.cc/pl/owLQH0dYsv/720?e="
     },
     {
-        "title": "Waray",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARWarayFULL10mbps/playlist.m3u8"
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/hCczwswokMmJhqFKEgIKnY1P7hm.jpg",
+        "category": "Pinoy Films",
+        "title": "Here Comes the Groom (2023)",
+        "url": "https://pkaystream.cc/pl/fyd3CU4jm2/720?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/4hdQa4AeM6Zpj0sOtB7HJNb6b4s.jpg",
+        "category": "Pinoy Films",
+        "title": "More Than Blue (2021)",
+        "url": "https://pkaystream.cc/pl/B4QSdfX6lU/720?e="
+    },
+    {
+        "title": "The Rise and Fall of Bigtime Berto",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/bigtimebertoforyoutube/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/53HcQk5VEQpXGt0QzgqRuSp5rsY.jpg",
+        "category": "Pinoy Films",
+        "title": "T2 (2009)",
+        "url": "https://pkaystream.cc/pl/fGDB2uFZRq/720?e="
     }
 ]
