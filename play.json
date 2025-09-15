@@ -1,28 +1,26 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/itRDwuQxbtmgaxyrHI4rGiIrxxX.jpg",
+        "title": "Waray",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARWarayFULL10mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/rUlMsLiL1iUvqE8YYwog0KPz6sV.jpg",
         "category": "Pinoy Films",
-        "title": "Espantaho (2025)",
-        "url": "https://pkaystream.cc/pl/FYHp9VXjHE/720?e="
+        "title": "Can We Still Be Friends? (2017)",
+        "url": "https://pkaystream.cc/pl/CmDLqEjMb0/720?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/duEI37Qjtt1WaiOzZzVlkI6JO2z.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/g87n3RSLugbRoGt2mt5akfGr3eD.jpg",
         "category": "Pinoy Films",
-        "title": "Eerie (2018)",
-        "url": "https://pkaystream.cc/pl/3Uc5I2fEO1061dd/360?s=0&d=1&e="
+        "title": "Video City: Be Kind, Please Rewind (2023)",
+        "url": "https://pkaystream.cc/pl/VwATP5h0te/720?e="
     },
     {
-        "title": "The Rivals Of The Silver Fox (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/DIMRivalsOfTheSilverFoxTGFULL10mbps/playlist.m3u8"
+        "title": "Divino: The Blessed Man",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARDivinoTheBlessedManTGSanitized25mbps/playlist.m3u8"
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/jsWZqU9qtCOdBNoeU7u29D0yet0.jpg",
-        "category": "Pinoy Films",
-        "title": "Reroute (2022)",
-        "url": "https://pkaystream.cc/pl/e7XZ9F78p_/720?e="
-    },
-    {
-        "title": "Love You Long Time",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/673.mp4"
+        "title": "Restricted Area (Dubbed in Tagalog)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNRestrictedAreaTGFULL10mbps/playlist.m3u8"
     }
 ]
