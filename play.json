@@ -1,26 +1,28 @@
 [
     {
-        "title": "Waray",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARWarayFULL10mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/rUlMsLiL1iUvqE8YYwog0KPz6sV.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/8pPcBBiQ1XdHTcRBgU8WrHkiGEv.jpg",
         "category": "Pinoy Films",
-        "title": "Can We Still Be Friends? (2017)",
-        "url": "https://pkaystream.cc/pl/CmDLqEjMb0/720?e="
+        "title": "Kita Kita (2017)",
+        "url": "https://pkaystream.cc/pl/AaiIrxtoFq/720?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/g87n3RSLugbRoGt2mt5akfGr3eD.jpg",
+        "title": "Cain At Abel",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARCainatAbelTGSanitized15mbps/playlist.m3u8"
+    },
+    {
+        "title": "Heneral Luna",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/7270.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/tbBoJnQiqCcLYSySmyWi2qduqiQ.jpg",
         "category": "Pinoy Films",
-        "title": "Video City: Be Kind, Please Rewind (2023)",
-        "url": "https://pkaystream.cc/pl/VwATP5h0te/720?e="
+        "title": "Kiss in the Wind (2015)",
+        "url": "https://pkaystream.cc/pl/_3hlGlw-km/720?e="
     },
     {
-        "title": "Divino: The Blessed Man",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARDivinoTheBlessedManTGSanitized25mbps/playlist.m3u8"
-    },
-    {
-        "title": "Restricted Area (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNRestrictedAreaTGFULL10mbps/playlist.m3u8"
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/hZZHvrb3aSUkbkk7IgKYsrplmyE.jpg",
+        "category": "Pinoy Films",
+        "title": "Shake Rattle and Roll Fourteen: The Invasion (2012)",
+        "url": "https://pkaystream.cc/pl/lfz35kx4OL/720?e="
     }
 ]
