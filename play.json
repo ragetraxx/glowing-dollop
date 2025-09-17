@@ -1,28 +1,24 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/k11utHsPpfYdC5cr53TYe82ddV7.jpg",
+        "title": "I Love Lizzy",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/594.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/mfES6wdU3KpwOF0FYgcC0Ao631p.jpg",
         "category": "Pinoy Films",
-        "title": "Mallari (2023)",
-        "url": "https://pkaystream.cc/pl/w4z8YpcD-6/720?e="
+        "title": "Nothing Like Paris (2023)",
+        "url": "https://pkaystream.cc/pl/OaAzQjHmUR/720?e="
     },
     {
-        "title": "Cain At Abel",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARCainatAbelTGSanitized15mbps/playlist.m3u8"
+        "title": "Tililing",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/482.mp4"
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/e2YYJYZrQkodvMGfgdSUH5LBPpr.jpg",
-        "category": "Pinoy Films",
-        "title": "Outside (2024)",
-        "url": "https://pkaystream.cc/pl/XoYSTVEn_u/720?e="
+        "title": "What If?",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/953.mp4"
     },
     {
-        "title": "OXO vs. Sigue Sigue",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLAROxoVSSigueSigueTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/kZJEQFk6eiZ9X2x70ve6R1dczus.jpg",
-        "category": "Pinoy Films",
-        "title": "Meet Me in St. Gallen (2018)",
-        "url": "https://pkaystream.cc/pl/_LYtp3FZDn/720?e="
+        "title": "Cover Girl",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARCOVERGIRLFULL10mbps/playlist.m3u8"
     }
 ]
