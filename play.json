@@ -1,24 +1,30 @@
 [
     {
-        "title": "Ang Paggapos (The Binding)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNTheBindingTGFULL25mbps/playlist.m3u8"
-    },
-    {
-        "title": "The Hows of Us",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/4993.mp4"
-    },
-    {
-        "title": "Bilog Na Naman Ang Buwan",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARBILOGNANAMANANGBUWANFULL10mbps/playlist.m3u8"
-    },
-    {
-        "title": "Boy Recto",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SolarBoyRectoTGPHFullLowbit/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/qDgOTkmkzMrxxvjXimKLoCSwBp7.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/59aQUGBkMubMDZIQzovfjn10239.jpg",
         "category": "Pinoy Films",
-        "title": "The Color of Your Skin (2019)",
-        "url": "https://pkaystream.cc/pl/30U8AI67e4b94aO/720?s=0&d=2&e="
+        "title": "Lacerating Transmutation (2023)",
+        "url": "https://pkaystream.cc/pl/n-bCbngfxS/720?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/kz0jM9Uw15ElDXQSpfNQupZuLPI.jpg",
+        "category": "Pinoy Films",
+        "title": "Seasons (2023)",
+        "url": "https://pkaystream.cc/pl/Hio5ImcX80/720?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/2Py3nHfsqygr7VM8tFmz9VgtsLj.jpg",
+        "category": "Pinoy Films",
+        "title": "A Girl and A Guy (2021)",
+        "url": "https://pkaystream.cc/pl/WzCZyPyVg0/720?e="
+    },
+    {
+        "title": "Sugat Sa Puri",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARSugatSaPuri1997FulldMCSDInf242997tlPH20LK/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/g87n3RSLugbRoGt2mt5akfGr3eD.jpg",
+        "category": "Pinoy Films",
+        "title": "Video City: Be Kind, Please Rewind (2023)",
+        "url": "https://pkaystream.cc/pl/VwATP5h0te/720?e="
     }
 ]
