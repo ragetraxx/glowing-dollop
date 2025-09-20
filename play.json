@@ -1,28 +1,24 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/20HKDrU2QccbEqzHmPJZRzMPoJM.jpg",
+        "title": "Watch List",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/8878.mp4"
+    },
+    {
+        "title": "Shoot Shoot!",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/481.mp4"
+    },
+    {
+        "title": "The Boarder (Dubbed in Tagalog)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/WPETheBoarderTGFULL10mbps/playlist.m3u8"
+    },
+    {
+        "title": "Ang Sumpa ng Sirena (The Mermaid's Curse)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNTheMermaidsCurseTGFULL5mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/yPXuQtj675A39W6BKuF2AQcme3O.jpg",
         "category": "Pinoy Films",
-        "title": "Lingua Franca (2019)",
-        "url": "https://pkaystream.cc/pl/K63XNvxDil/720?e="
-    },
-    {
-        "title": "Love at First Stream",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/595.mp4"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/zwPj6ZkaLEGE56cZN0vJ1hdknhx.jpg",
-        "category": "Pinoy Films",
-        "title": "Mia (2020)",
-        "url": "https://pkaystream.cc/pl/i-KMt_4ToN/720?e="
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/yhkEy2ZBppVoqjJCmvz9n7pKf7j.jpg",
-        "category": "Pinoy Films",
-        "title": "In Between (2025)",
-        "url": "https://pkaystream.cc/pl/MMUW1VEtKjKo4Bf/720?s=0&d=3&e="
-    },
-    {
-        "title": "Deadly Roses",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARDeadlyRosesTGSanitized25mbps/playlist.m3u8"
+        "title": "When the Love Is Gone (2013)",
+        "url": "https://pkaystream.cc/pl/EW3MLvCERD/720?e="
     }
 ]
