@@ -1,28 +1,30 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/5tEQhK0fJv1mKF7MuOc6tJ2Z8Eh.jpg",
+        "title": "Kakambal Ko Sa Tapang",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARKakambalKoSaTapangTGFULL25mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/F5lAWeD2CaLgQRmzbc70L1xKUY.jpg",
         "category": "Pinoy Films",
-        "title": "Revirginized (2021)",
-        "url": "https://flashstream.cc/pl/bV_BXH82Z4/720?e="
+        "title": "Through Night and Day (2018)",
+        "url": "https://flashstream.cc/pl/a6gGhU447i/720?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/8UJywq9wJdsUJBGZLhEKRVgR2zv.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/hEwtD6AUYjde9vk0vN9nCSAdGcf.jpg",
         "category": "Pinoy Films",
-        "title": "Strange Frequencies: Taiwan Killer Hospital (2024)",
-        "url": "https://flashstream.cc/pl/lRe-AMDTHUIcBg_/720?s=0&d=0&e="
+        "title": "Seven Sundays (2017)",
+        "url": "https://flashstream.cc/pl/s_gHu3fnsC/720?e="
     },
     {
-        "title": "Always",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/500.mp4"
-    },
-    {
-        "title": "A Very Good Girl",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/4817.mp4"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/uZuJ9q3BmLg0uWfJtd26l7Hm2kt.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/jJdOjo8H9UgjEqHyOQUHzIaFem9.jpg",
         "category": "Pinoy Films",
-        "title": "Sin Island (2018)",
-        "url": "https://flashstream.cc/pl/SfYd6Xiur-/720?e="
+        "title": "Maria, Leonora, Teresa (2014)",
+        "url": "https://flashstream.cc/pl/XRXz69ofmn/720?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/90AB6A0H93HsKhurFaihiNXhNZv.jpg",
+        "category": "Pinoy Films",
+        "title": "The Annulment (2019)",
+        "url": "https://flashstream.cc/pl/QUwCa2zTDz/720?e="
     }
 ]
