@@ -1,26 +1,28 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/5MzVZUMGlSsNy3c4hxKzFj1qFFd.jpg",
+        "title": "Bakit May Putik Ang Bulaklak?",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARBakitMayPutikAngBulaklakTGSanitized25mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/8E9Tbz8X1xLdtpMU9rMhiUdWXZs.jpg",
         "category": "Pinoy Films",
-        "title": "You Have Arrived (2019)",
-        "url": "https://flashstream.cc/pl/xp2BUm5oST/720?e="
+        "title": "The Trigonal: Fight for Justice (2018)",
+        "url": "https://flashstream.cc/pl/jRxfG5vkSd/720?e="
     },
     {
-        "title": "Connected (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/WPEConnectedTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "title": "Anak Ng Kumander",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARAnakNgKumanderFULL10mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/1KtV2ZIUq4LCCNvdfnOsnM4t49L.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/yubAeQ9MpzTpgB2upzjwga3xkq1.jpg",
         "category": "Pinoy Films",
-        "title": "Babaylan (2023)",
-        "url": "https://flashstream.cc/pl/yZubiX9WTn/720?e="
+        "title": "Sanggano, Sanggago\u2019t Sanggwapo 2 (2021)",
+        "url": "https://flashstream.cc/pl/HtNAprl2_s/720?e="
     },
     {
-        "title": "Rewind",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/8879.mp4"
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/1YijgGabCrSIA48QNJ6fux4uyrE.jpg",
+        "category": "Pinoy Films",
+        "title": "Silly Red Shoes (2019)",
+        "url": "https://flashstream.cc/pl/ffNhJxgu0I/720?e="
+    },
+    {
+        "title": "Doll House",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/8881.mp4"
     }
 ]
