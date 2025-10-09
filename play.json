@@ -1,28 +1,24 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/6ToNowvMedCuGjm3SZCn6DUWsWl.jpg",
+        "title": "Mapupulang Rosas",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARMapupulangRosasTGFULL25mbps/playlist.m3u8"
+    },
+    {
+        "title": "What If?",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/953.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/cIo8zG4YIJTVOnvw2EQc71KxBfv.jpg",
         "category": "Pinoy Films",
-        "title": "Out of Order (2025)",
-        "url": "https://flashstream.cc/pl/RyQvPOMEv-ndcaW/720?s=0&d=0&e="
+        "title": "Shake, Rattle & Roll Extreme (2023)",
+        "url": "https://flashstream.cc/pl/DroyqxVGnU/720?e="
     },
     {
-        "title": "Pangil",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNFangTGFULL5mbps/playlist.m3u8"
+        "title": "Pagtahak Sa Apoy (Enter the Fire)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/WPEEnterTheFireTGFULL10mbps/playlist.m3u8"
     },
     {
-        "title": "Restricted Area (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNRestrictedAreaTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/yubAeQ9MpzTpgB2upzjwga3xkq1.jpg",
-        "category": "Pinoy Films",
-        "title": "Sanggano, Sanggago\u2019t Sanggwapo 2 (2021)",
-        "url": "https://flashstream.cc/pl/HtNAprl2_s/720?e="
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/kyLu1gq6R9MXsvb0yjmvNU90aWB.jpg",
-        "category": "Pinoy Films",
-        "title": "Nanahimik ang Gabi (2022)",
-        "url": "https://flashstream.cc/pl/K0XqOyqrHH/720?e="
+        "title": "Tayo Na Sa Dilim",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARTayonasadilimFulldMCSD242997tlPH20LK/playlist.m3u8"
     }
 ]
