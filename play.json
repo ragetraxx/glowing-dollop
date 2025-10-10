@@ -1,28 +1,26 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/cfJqPnKjWTQJPWoNsMkeqpJzla4.jpg",
+        "title": "Love at First Stream",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/595.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/kfBFJyfw3q7hfnzV2ApPpDpDLCd.jpg",
         "category": "Pinoy Films",
-        "title": "Sa Muli (2023)",
-        "url": "https://flashstream.cc/pl/UbS0tRnjAl/720?e="
+        "title": "Seklusyon (2016)",
+        "url": "https://flashstream.cc/pl/g-4mk7pxOS/720?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/vl3MMPcYMVhSmoyby3eaI6CPbGT.jpg",
+        "title": "Alyas Baby Tsino",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SolarAlyasBabyTsinoTGPHFullLowbitSanitized/playlist.m3u8"
+    },
+    {
+        "title": "Restricted Area (Dubbed in Tagalog)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNRestrictedAreaTGFULL10mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/itRDwuQxbtmgaxyrHI4rGiIrxxX.jpg",
         "category": "Pinoy Films",
-        "title": "The Super Parental Guardians (2016)",
-        "url": "https://flashstream.cc/pl/8AAVoSTubi/720?e="
-    },
-    {
-        "title": "Mariang Kondesa",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARMariangKondesaTGFULL25mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/pVlI6LmimLjibd5FfBr4xWrcHy5.jpg",
-        "category": "Pinoy Films",
-        "title": "Catch Me... I'm in Love (2011)",
-        "url": "https://flashstream.cc/pl/vxgdVBwgFF/720?e="
-    },
-    {
-        "title": "Hahalik Ka Rin Sa Lupa",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARHahalikKaRinSaLupaTGFULL25mbps/playlist.m3u8"
+        "title": "Espantaho (2025)",
+        "url": "https://flashstream.cc/pl/FYHp9VXjHE/720?e="
     }
 ]
