@@ -1,26 +1,32 @@
 [
     {
-        "title": "Ang Dalawang Mrs. Reyes",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/61.mp4"
-    },
-    {
-        "title": "The Boarder (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/WPETheBoarderTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "title": "SGT. Lito Amar: Kamandag Ng Dagat-Dagatan",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/ATB4FilmsInternationalLitoAmarKamandagNgDagatdagatanTGPHFullLowbit/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/73JplLkelvqdxP2EUeMqFjP40j0.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/jv9gIvtN4AoYBBuOujO4clZmDw.jpg",
         "category": "Pinoy Films",
-        "title": "Biyernes Santo (2021)",
-        "url": "https://flashstream.cc/pl/FDO8CeTOMd/720?e="
+        "title": "A Cup of Flavor (2023)",
+        "url": "https://flashstream.cc/pl/OwWHAeOVxq/720?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/90AB6A0H93HsKhurFaihiNXhNZv.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/9dp0LlnahtNMwVk673H9fd1fat3.jpg",
         "category": "Pinoy Films",
-        "title": "The Annulment (2019)",
-        "url": "https://flashstream.cc/pl/QUwCa2zTDz/720?e="
+        "title": "What If? (2023)",
+        "url": "https://flashstream.cc/pl/oeAIhGTqDP/720?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/hZZHvrb3aSUkbkk7IgKYsrplmyE.jpg",
+        "category": "Pinoy Films",
+        "title": "Shake Rattle and Roll Fourteen: The Invasion (2012)",
+        "url": "https://flashstream.cc/pl/lfz35kx4OL/720?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/tbBoJnQiqCcLYSySmyWi2qduqiQ.jpg",
+        "category": "Pinoy Films",
+        "title": "Kiss in the Wind (2015)",
+        "url": "https://flashstream.cc/pl/_3hlGlw-km/720?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/bWTG8X1rd4b4UEhQkWx8WXtmGEd.jpg",
+        "category": "Pinoy Films",
+        "title": "Can't Help Falling in Love (2017)",
+        "url": "https://flashstream.cc/pl/Rs9elZ_hbi/720?e="
     }
 ]
