@@ -1,26 +1,26 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/2O3SS7Gh2OuKdzxi2bEOi7zNVue.jpg",
+        "title": "Ang Dalawang Mrs. Reyes",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/61.mp4"
+    },
+    {
+        "title": "The Boarder (Dubbed in Tagalog)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/WPETheBoarderTGFULL10mbps/playlist.m3u8"
+    },
+    {
+        "title": "SGT. Lito Amar: Kamandag Ng Dagat-Dagatan",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/ATB4FilmsInternationalLitoAmarKamandagNgDagatdagatanTGPHFullLowbit/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/73JplLkelvqdxP2EUeMqFjP40j0.jpg",
         "category": "Pinoy Films",
-        "title": "The Hows of Us (2018)",
-        "url": "https://flashstream.cc/pl/VQ3_MD6f2-/720?e="
+        "title": "Biyernes Santo (2021)",
+        "url": "https://flashstream.cc/pl/FDO8CeTOMd/720?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/cjXvX2c9vD8AXMejYFuJ4EDgvfN.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/90AB6A0H93HsKhurFaihiNXhNZv.jpg",
         "category": "Pinoy Films",
-        "title": "Miss You Like Crazy (2010)",
-        "url": "https://flashstream.cc/pl/kLZ3ZdtF-L/720?e="
-    },
-    {
-        "title": "Ligaw Tingin, Halik Hangin",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARLigawTinginHalikHanginTGFull15mbps/playlist.m3u8"
-    },
-    {
-        "title": "Cain At Abel",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARCainatAbelTGSanitized15mbps/playlist.m3u8"
-    },
-    {
-        "title": "An Inconvenient Love",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/592.mp4"
+        "title": "The Annulment (2019)",
+        "url": "https://flashstream.cc/pl/QUwCa2zTDz/720?e="
     }
 ]
