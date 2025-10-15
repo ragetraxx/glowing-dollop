@@ -1,28 +1,30 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/vl3MMPcYMVhSmoyby3eaI6CPbGT.jpg",
+        "title": "Ang Paggapos (The Binding)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNTheBindingTGFULL25mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/bv8druvu1QHKVzgZvboelZnbiGg.jpg",
         "category": "Pinoy Films",
-        "title": "The Super Parental Guardians (2016)",
-        "url": "https://flashstream.cc/pl/8AAVoSTubi/720?e="
+        "title": "Big Night! (2021)",
+        "url": "https://flashstream.cc/pl/bjl2ben7Of/720?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/eYrGgr3pWLU5EfQYs92MYs7jsSh.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/liQ2ZfQpSMnGGeH5Avi7UldJpkO.jpg",
         "category": "Pinoy Films",
-        "title": "Fuchsia Libre (2024)",
-        "url": "https://flashstream.cc/pl/hpr7QzpJYi/720?e="
+        "title": "Moro (2023)",
+        "url": "https://flashstream.cc/pl/JoMrpkhvgX/720?e="
     },
     {
-        "title": "Divino: The Blessed Man",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARDivinoTheBlessedManTGSanitized25mbps/playlist.m3u8"
-    },
-    {
-        "title": "Rewind",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/8879.mp4"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/m0drKTvXkmhrXyNwQ5VuMZe6V7b.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/AnnSGvt6q2KguOG9VIHTkNA5gjX.jpg",
         "category": "Pinoy Films",
-        "title": "Pwera Usog (2017)",
-        "url": "https://flashstream.cc/pl/8VO9L-VKUi/720?e="
+        "title": "English Only, Please (2014)",
+        "url": "https://flashstream.cc/pl/NVl33gQwuC/720?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/yq5LxJ9G7tss9Ab3JpL75unuxJV.jpg",
+        "category": "Pinoy Films",
+        "title": "Virgin People (1984)",
+        "url": "https://flashstream.cc/pl/ELdKN_a7jl/720?e="
     }
 ]
