@@ -1,24 +1,30 @@
 [
     {
-        "title": "Isla Grande",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SolarIslaGrandeFullTGPH/playlist.m3u8"
-    },
-    {
-        "title": "Atelophobia 2 (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNATELOPHOBIA2TGPHFullLowbit/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/mDONR1ABbzRgpeJOGAOcvbzIND7.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/duEI37Qjtt1WaiOzZzVlkI6JO2z.jpg",
         "category": "Pinoy Films",
-        "title": "366 (2022)",
-        "url": "https://flashstream.cc/pl/Z9GUFx-A_1/720?e="
+        "title": "Eerie (2018)",
+        "url": "https://flashstream.cc/pl/3Uc5I2fEO1061dd/360?s=0&d=1&e="
     },
     {
-        "title": "Never Ever Say Goodbye",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARNeverEverSayGoodbyeFULL10mbps/playlist.m3u8"
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/7vWakWpZ06TvnApXdRvCqYKuQ09.jpg",
+        "category": "Pinoy Films",
+        "title": "Verdict (2019)",
+        "url": "https://flashstream.cc/pl/UaUxR5mCfq/720?e="
     },
     {
-        "title": "Kumander Anting-Anting",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARKumanderAntinAntingTGSanitized25mbps/playlist.m3u8"
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/tTLNnXAYq9YHu41qVMUV2DopL8p.jpg",
+        "category": "Pinoy Films",
+        "title": "Nanay, Tatay (2024)",
+        "url": "https://flashstream.cc/pl/ovGL2PyJ8q/720?e="
+    },
+    {
+        "title": "Pangil",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNFangTGFULL5mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/6D98XukeN3lJf5BJ4vEIcHMwu5n.jpg",
+        "category": "Pinoy Films",
+        "title": "Clarita (2019)",
+        "url": "https://flashstream.cc/pl/dtzzQVGGUb/720?e="
     }
 ]
