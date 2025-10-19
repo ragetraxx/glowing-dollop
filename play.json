@@ -1,28 +1,24 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/nPcDoHyLTGtyQzvInHTpekFl8xT.jpg",
+        "title": "SGT. Lito Amar: Kamandag Ng Dagat-Dagatan",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/ATB4FilmsInternationalLitoAmarKamandagNgDagatdagatanTGPHFullLowbit/playlist.m3u8"
+    },
+    {
+        "title": "Kalaro",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARKalaro1999FulldMCSDInf242997tlPH20LK/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/y6TGzo0tfh0fxC7x6TBYne7NR4a.jpg",
         "category": "Pinoy Films",
-        "title": "May-December-January (2022)",
-        "url": "https://flashstream.cc/pl/HM39M10fA6/720?e="
+        "title": "Unexpectedly Yours (2017)",
+        "url": "https://flashstream.cc/pl/k-0sjFT_tR/720?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/5yUR5cSUL6htDAs6B4cz8PLAAtA.jpg",
-        "category": "Pinoy Films",
-        "title": "#WalangForever (2015)",
-        "url": "https://flashstream.cc/pl/sKXXm0y6JH/720?e="
+        "title": "The Fearless Hyena (Dubbed in Tagalog)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/DIMFearlessHyenaTGFULL10mbps/playlist.m3u8"
     },
     {
-        "title": "Here Comes the Groom",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/477.mp4"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/5Qiiq88ynNvufkGUmTQ2Lc5Yejs.jpg",
-        "category": "Pinoy Films",
-        "title": "Fatal Vacation (1990)",
-        "url": "https://flashstream.cc/pl/GDWaiA2LCm/720?e="
-    },
-    {
-        "title": "Mariang Kondesa",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARMariangKondesaTGFULL25mbps/playlist.m3u8"
+        "title": "Ang Dalawang Mrs. Reyes",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/61.mp4"
     }
 ]
