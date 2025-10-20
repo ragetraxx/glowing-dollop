@@ -1,24 +1,30 @@
 [
     {
-        "title": "Connected (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/WPEConnectedTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/mkbkFUk5hQFKg4D9In7SI4zopxa.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/j523NJfe7KRUfBLSOPsGxrTgoyR.jpg",
         "category": "Pinoy Films",
-        "title": "The Gatekeeper (2024)",
-        "url": "https://flashstream.cc/pl/bo7j7FpevD/720?e="
+        "title": "Stalin's James Bond (2020)",
+        "url": "https://flashstream.cc/pl/eISKYU45W1/720?e="
     },
     {
-        "title": "Magdaleno Orbos: Sa Kuko Ng Mga Lawin",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARMagdalenoOrbosTGSanitized15mbps/playlist.m3u8"
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/cGgLYfJ514LYJnzxN9TgiZupanF.jpg",
+        "category": "Pinoy Films",
+        "title": "Love or Money (2021)",
+        "url": "https://flashstream.cc/pl/IHJ2eBfc4i/720?e="
     },
     {
-        "title": "Losers-1, Sucker-0",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/502.mp4"
+        "title": "The Entitled",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/7265.mp4"
     },
     {
-        "title": "Respeto",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/8877.mp4"
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/d6aiEgFoFfWrdXwxdn52mTfDCnx.jpg",
+        "category": "Pinoy Films",
+        "title": "Three Words to Forever (2018)",
+        "url": "https://flashstream.cc/pl/m22z--ck3-/720?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/vvArzms4uGDAlqo6JfeAe0b4ro4.jpg",
+        "category": "Pinoy Films",
+        "title": "BuyBust (2018)",
+        "url": "https://flashstream.cc/pl/-9T_YF2f3r/720?e="
     }
 ]
