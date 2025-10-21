@@ -1,26 +1,30 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/whLXEc4hRRuORgR5rbYzEoQAPeT.jpg",
+        "title": "Utol",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARUTOLFULL10mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/dVaxoZqQnxLJrr8thyewDwEmRbW.jpg",
         "category": "Pinoy Films",
-        "title": "Must Date the Playboy (2015)",
-        "url": "https://flashstream.cc/pl/GCYztvsJYK/720?e="
+        "title": "The Mall, The Merrier (2019)",
+        "url": "https://flashstream.cc/pl/tXOPcvJ-GR/720?e="
     },
     {
-        "title": "Seven Sundays",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/132.mp4"
-    },
-    {
-        "title": "Kapag May Gusot, Walang Lusot",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARKapagMayGusotWalangLusotTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/7XKFuPZjMPRWFaBIIa8J91q5NYD.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/AnnSGvt6q2KguOG9VIHTkNA5gjX.jpg",
         "category": "Pinoy Films",
-        "title": "Connected (2022)",
-        "url": "https://flashstream.cc/pl/Mv-51Ly-1gssziT/e="
+        "title": "English Only, Please (2014)",
+        "url": "https://flashstream.cc/pl/NVl33gQwuC/720?e="
     },
     {
-        "title": "Bakit Manipis Ang Ulap?",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARBakitManipisAngUlapFULL10mbps/playlist.m3u8"
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/ZvRTtTmi7daal0VbVGkkZu2E1N.jpg",
+        "category": "Pinoy Films",
+        "title": "Five Breakups and a Romance (2023)",
+        "url": "https://flashstream.cc/pl/IzALc0qv94/720?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/plv85l002BHwPq7zvjceGt4h3nz.jpg",
+        "category": "Pinoy Films",
+        "title": "The Entitled (2022)",
+        "url": "https://flashstream.cc/pl/rg0IK9f4B2/720?e="
     }
 ]
