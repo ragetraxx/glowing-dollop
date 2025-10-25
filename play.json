@@ -1,28 +1,26 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/xqqSujBOob4zkHwuWsSTUQWAmfh.jpg",
+        "title": "Da Possessed",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/474.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/mDONR1ABbzRgpeJOGAOcvbzIND7.jpg",
         "category": "Pinoy Films",
-        "title": "Expensive Candy (2022)",
-        "url": "https://flashstream.cc/pl/GO37e8NPMU/0-0?e="
+        "title": "366 (2022)",
+        "url": "https://flashstream.cc/pl/Z9GUFx-A_1/0-0?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/kogK99QugddnSIMe3Wy8fWCLL60.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/jzuV6Ob10ARUYhcMdcuE3Bfr2NZ.jpg",
         "category": "Pinoy Films",
-        "title": "Ten Little Mistresses (2023)",
-        "url": "https://flashstream.cc/pl/R16KOwkJFK/0-0?e="
+        "title": "Cry No Fear (2018)",
+        "url": "https://flashstream.cc/pl/11vX4IifL5/0-0?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/21wyQ90LagX9sjEFRXFcNDrM0kE.jpg",
-        "category": "Pinoy Films",
-        "title": "The Last 12 Days (2024)",
-        "url": "https://flashstream.cc/pl/iC9PG0Cdq9/0-0?e="
+        "title": "Kahit Sa Kabilang Buhay",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARKahitSaKabilangBuhayFULL10mbps/playlist.m3u8"
     },
     {
-        "title": "Sagupaan: Huling Digmaan",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARSagupaanHulingDigmaanTGFull25mbps/playlist.m3u8"
-    },
-    {
-        "title": "AEIOU",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARAeiouTGSanitized15mbps/playlist.m3u8"
+        "title": "Stepanio: The Last Koboy",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARStepanioTheLastKowboyFULL10mbps/playlist.m3u8"
     }
 ]
