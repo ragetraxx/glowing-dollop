@@ -1,26 +1,30 @@
 [
     {
-        "title": "Outside",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/14711.mp4"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/kfBFJyfw3q7hfnzV2ApPpDpDLCd.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/jKHxnjDiKUNAkTQmeP1gCwpB7oD.jpg",
         "category": "Pinoy Films",
-        "title": "Seklusyon (2016)",
-        "url": "https://flashstream.cc/pl/g-4mk7pxOS/0-0?e="
+        "title": "The Achy Breaky Hearts (2016)",
+        "url": "https://flashstream.cc/pl/owLQH0dYsv/0-0?e="
     },
     {
-        "title": "Metro Manila",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/8880.mp4"
+        "title": "Dragon Fist (Dubbed in Tagalog)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/DIMDragonFistTGFULL10mbps/playlist.m3u8"
     },
     {
-        "title": "Sindak!",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARSindakTGFULL10mbps/playlist.m3u8"
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/9mubRgSblHYdqZpYJJrE3HhU3Zd.jpg",
+        "category": "Pinoy Films",
+        "title": "Will You Be My Ex? (2023)",
+        "url": "https://flashstream.cc/pl/sKz2TPNdjW/0-0?e="
     },
     {
-        "image": "https://image.tmdb.org/t/p/original/kdHEtyOoB8cyFDwqFMMGK1q0RlM.jpg",
-        "category": "Film Library",
-        "title": "One Hit Wonder (2025)",
-        "url": "https://flashstream.cc/pl/Gpc-dSKbPSU2F08/0-0?e="
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/kyLu1gq6R9MXsvb0yjmvNU90aWB.jpg",
+        "category": "Pinoy Films",
+        "title": "Nanahimik ang Gabi (2022)",
+        "url": "https://flashstream.cc/pl/K0XqOyqrHH/0-0?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/b0Ms9JS4Z4NOsMlyWEiF0evdhvi.jpg",
+        "category": "Pinoy Films",
+        "title": "Love Child (2024)",
+        "url": "https://flashstream.cc/pl/r3_rXKw2RM/0-0?e="
     }
 ]
