@@ -1,26 +1,30 @@
 [
     {
-        "title": "Durugin: Anay ng Lipunan",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARDuruginAnayngLipunanTGFull25mbps/playlist.m3u8"
-    },
-    {
-        "title": "Love You to the Stars and Back",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/7269.mp4"
-    },
-    {
-        "title": "Sagupaan: Huling Digmaan",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARSagupaanHulingDigmaanTGFull25mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/hEwtD6AUYjde9vk0vN9nCSAdGcf.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/n5nZ6wtfrkY0xo79lSrO3Jto0nD.jpg",
         "category": "Pinoy Films",
-        "title": "Seven Sundays (2017)",
-        "url": "https://flashstream.cc/pl/s_gHu3fnsC/0-0?e="
+        "title": "Motel Acacia (2019)",
+        "url": "https://flashstream.cc/pl/YEd90r1dFZ/0-0?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/2nM2OhFs7GP1BBlUipoN15AcAGw.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/gEpevm26F3n8LMzzPSr668IMi3y.jpg",
         "category": "Pinoy Films",
-        "title": "Ikaw Pa Rin Ang Pipiliin Ko (2024)",
-        "url": "https://flashstream.cc/pl/UCe28jtUIX/0-0?e="
+        "title": "RED (2024)",
+        "url": "https://flashstream.cc/pl/CN2AOSNXaA/0-0?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/6AP6ryfqYDTcYhCzJSRPeOlGVfe.jpg",
+        "category": "Pinoy Films",
+        "title": "Partners in Crime (2022)",
+        "url": "https://flashstream.cc/pl/Ff-61q1DlN/0-0?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/9ecp2jXDtN1mVmoZ65D34y40R9P.jpg",
+        "category": "Pinoy Films",
+        "title": "Nunal sa Tubig (1976)",
+        "url": "https://flashstream.cc/pl/TDeLRBsRj9/0-0?e="
+    },
+    {
+        "title": "Bagamundo",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARBagamundoTGFULL25mbps/playlist.m3u8"
     }
 ]
