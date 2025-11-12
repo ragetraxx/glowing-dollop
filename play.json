@@ -1,24 +1,30 @@
 [
     {
-        "title": "Un/Happy For You",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/15621.mp4"
-    },
-    {
-        "title": "Deadly Roses",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARDeadlyRosesTGSanitized25mbps/playlist.m3u8"
-    },
-    {
-        "title": "Get Happy (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNGetHappyTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/aU8CYkv4DrTnjGAlwBHB8Bcrgle.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/xqqSujBOob4zkHwuWsSTUQWAmfh.jpg",
         "category": "Pinoy Films",
-        "title": "Way Back Home (2011)",
-        "url": "https://flashstream.cc/pl/WVDskpMcee/0-0?e="
+        "title": "Expensive Candy (2022)",
+        "url": "https://flashstream.cc/pl/GO37e8NPMU/0-0?e="
     },
     {
-        "title": "Kapag May Gusot, Walang Lusot",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARKapagMayGusotWalangLusotTGFULL10mbps/playlist.m3u8"
+        "title": "Elvis and James: The Living Legends",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARELVIS&JAMESFULL10mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/gbmqUFm609fJoqoiwc4Bj9st0lA.jpg",
+        "category": "Pinoy Films",
+        "title": "Magnifico (2003)",
+        "url": "https://flashstream.cc/pl/M66KoO7Tar/0-0?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/oNFY6283FTciXSD8ktpUnsWCDky.jpg",
+        "category": "Pinoy Films",
+        "title": "Just the Way You Are (2015)",
+        "url": "https://flashstream.cc/pl/zEMkL63W0O/0-0?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/7XY9hNTUceIwfB3h1LTa3wYIpdR.jpg",
+        "category": "Pinoy Films",
+        "title": "That Kind of Love (2024)",
+        "url": "https://flashstream.cc/pl/GMayM08tkZ/0-0?e="
     }
 ]
