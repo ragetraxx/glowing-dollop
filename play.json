@@ -1,26 +1,30 @@
 [
     {
-        "title": "Isang Lahi, Isang Dugo... Sa Lupang Pinangako",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARIsangLahiIsangDugoSaLupangPinangakoTGFull25mbps/playlist.m3u8"
+        "title": "Sa Muli",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/599.mp4"
     },
     {
-        "title": "The Boarder (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/WPETheBoarderTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "title": "Babaylan",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/470.mp4"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/8d0bO40Ke5ecVt06fBBtnTpQUxs.jpg",
+        "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/uCUgMEGPbZrnGLDjDXRteffT9JM.jpg",
         "category": "Pinoy Films",
-        "title": "You're My Boss (2015)",
-        "url": "https://flashstream.cc/pl/o3XfFuU_ZU/0-0?e="
+        "title": "Ma'am Chief: Shakedown in Seoul (2023)",
+        "url": "https://flashstream.cc/pl/c3TI2ZhFwHZLLGr/0-0?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/yPXuQtj675A39W6BKuF2AQcme3O.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/bv8druvu1QHKVzgZvboelZnbiGg.jpg",
         "category": "Pinoy Films",
-        "title": "When the Love Is Gone (2013)",
-        "url": "https://flashstream.cc/pl/EW3MLvCERD/0-0?e="
+        "title": "Big Night! (2021)",
+        "url": "https://flashstream.cc/pl/bjl2ben7Of/0-0?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/6P0Zj7BVMpimbDSHJl03ezATkqR.jpg",
+        "category": "Pinoy Films",
+        "title": "I Am Not Big Bird (2024)",
+        "url": "https://flashstream.cc/pl/TscsJz79BX/0-0?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/oFGE2vSdks70LQxheSKEUHGSGJG.jpg",
+        "category": "Pinoy Films",
+        "title": "Un-Ex You (2025)",
+        "url": "https://flashstream.cc/pl/nhVA6aRd_r/0-0?e="
     }
 ]
