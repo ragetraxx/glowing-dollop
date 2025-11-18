@@ -1,24 +1,30 @@
 [
     {
-        "title": "DOTGA: Da One That Ghost Away",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/475.mp4"
-    },
-    {
-        "title": "Pangil",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNFangTGFULL5mbps/playlist.m3u8"
-    },
-    {
-        "title": "James & Pat & Dave",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/478.mp4"
-    },
-    {
-        "title": "Partners in Crime",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/480.mp4"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/nKw0EFiRC0eFTegtb8DGrL8lvC1.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/4YCfqgWL1uaAc4wVlhom1xFlQyM.jpg",
         "category": "Pinoy Films",
-        "title": "The Kingdom (2024)",
-        "url": "https://flashstream.cc/pl/w7bcnJYGwEVJE9J/0-0?e="
+        "title": "Magikland (2020)",
+        "url": "https://flashstream.cc/pl/NYlbF0H3KS/0-0?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/2EG9dLNxHKyT5DEJxsprp0f4O9T.jpg",
+        "category": "Pinoy Films",
+        "title": "GomBurZa (2023)",
+        "url": "https://flashstream.cc/pl/fxwxDaOAYg/0-0?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/kO2zX3FUIM2AEvKrxnBMO48SC9A.jpg",
+        "category": "Pinoy Films",
+        "title": "Maybe Today (2022)",
+        "url": "https://flashstream.cc/pl/hhdgZ9Egeo/0-0?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/iixbfEImsaMgvhIyhHaT9DyWL5G.jpg",
+        "category": "Pinoy Films",
+        "title": "Shake, Rattle and Roll 12 (2010)",
+        "url": "https://flashstream.cc/pl/AVU2vgXDLi/0-0?e="
+    },
+    {
+        "title": "Elevator",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/13372.mp4"
     }
 ]
