@@ -1,26 +1,24 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/aGaM8Vti9lcaBgFVjrMdNCoDanS.jpg",
+        "title": "DOTGA: Da One That Ghost Away",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/475.mp4"
+    },
+    {
+        "title": "Pangil",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNFangTGFULL5mbps/playlist.m3u8"
+    },
+    {
+        "title": "James & Pat & Dave",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/478.mp4"
+    },
+    {
+        "title": "Partners in Crime",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/480.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/nKw0EFiRC0eFTegtb8DGrL8lvC1.jpg",
         "category": "Pinoy Films",
-        "title": "100 Yards (2019)",
-        "url": "https://flashstream.cc/pl/vybtpPIr53/0-0?e="
-    },
-    {
-        "title": "Ang Sumpa ng Sirena (The Mermaid's Curse)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNTheMermaidsCurseTGFULL5mbps/playlist.m3u8"
-    },
-    {
-        "title": "Atelophobia 2 (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNATELOPHOBIA2TGPHFullLowbit/playlist.m3u8"
-    },
-    {
-        "title": "Whispers in the Wind",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/15617.mp4"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/7YHH7ol7GIG89tw0TkGy0y7gwD5.jpg",
-        "category": "Pinoy Films",
-        "title": "Adarna Gang (2022)",
-        "url": "https://flashstream.cc/pl/BYAJxw9tiY/0-0?e=SkQvQ2ZTYy9KOHNqYXlXT2crSzJiZWVTc293Rzl4TkZ5dWxjRzBmNkRncz0E"
+        "title": "The Kingdom (2024)",
+        "url": "https://flashstream.cc/pl/w7bcnJYGwEVJE9J/0-0?e="
     }
 ]
