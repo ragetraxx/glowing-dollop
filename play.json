@@ -1,26 +1,30 @@
 [
     {
-        "title": "Ang Panday",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/473.mp4"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/vvcqap2J7F3Aoik7OpE3577TnkV.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/kO2zX3FUIM2AEvKrxnBMO48SC9A.jpg",
         "category": "Pinoy Films",
-        "title": "Mang Jose (2021)",
-        "url": "https://flashstream.cc/pl/tbSDOp7kGh/0-0?e="
+        "title": "Maybe Today (2022)",
+        "url": "https://flashstream.cc/pl/hhdgZ9Egeo/0-0?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/iLRNcubYiSIYPDeSX4nvm7WhH7O.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/bv8druvu1QHKVzgZvboelZnbiGg.jpg",
         "category": "Pinoy Films",
-        "title": "Maybe This Time (2014)",
-        "url": "https://flashstream.cc/pl/tlWikf9RmK/0-0?e="
+        "title": "Big Night! (2021)",
+        "url": "https://flashstream.cc/pl/bjl2ben7Of/0-0?e="
     },
     {
-        "title": "AEIOU",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARAeiouTGSanitized15mbps/playlist.m3u8"
+        "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/yhkEy2ZBppVoqjJCmvz9n7pKf7j.jpg",
+        "category": "Pinoy Films",
+        "title": "In Between (2025)",
+        "url": "https://flashstream.cc/pl/MMUW1VEtKjKo4Bf/0-0?e="
     },
     {
-        "title": "Deadly Roses",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARDeadlyRosesTGSanitized25mbps/playlist.m3u8"
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/2nM2OhFs7GP1BBlUipoN15AcAGw.jpg",
+        "category": "Pinoy Films",
+        "title": "Ikaw Pa Rin Ang Pipiliin Ko (2024)",
+        "url": "https://flashstream.cc/pl/UCe28jtUIX/0-0?e="
+    },
+    {
+        "title": "Sindak!",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARSindakTGFULL10mbps/playlist.m3u8"
     }
 ]
