@@ -1,22 +1,26 @@
 [
     {
-        "title": "An Inconvenient Love",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/592.mp4"
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/2UJ466zim5AL46h7gJmejC5oHtj.jpg",
+        "category": "Pinoy Films",
+        "title": "Kidnap For Romance (2023)",
+        "url": "https://flashstream.cc/pl/jkeqemMsK2/0-0?e="
     },
     {
-        "title": "The Rivals Of The Silver Fox (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/DIMRivalsOfTheSilverFoxTGFULL10mbps/playlist.m3u8"
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/90AB6A0H93HsKhurFaihiNXhNZv.jpg",
+        "category": "Pinoy Films",
+        "title": "The Annulment (2019)",
+        "url": "https://flashstream.cc/pl/QUwCa2zTDz/0-0?e="
     },
     {
-        "title": "Sugat Sa Puri",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARSugatSaPuri1997FulldMCSDInf242997tlPH20LK/playlist.m3u8"
+        "title": "Buenavista: Kapag Dumanak Ang Dugo",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARBuenavistaKapagDumanakangDugoTGFull25mbps/playlist.m3u8"
     },
     {
-        "title": "Death Grip (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/WPEDeathGripTGFULL10mbps/playlist.m3u8"
+        "title": "Nawawalang Creek (The Lost Creek)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/GRAVLostCreekTGFULL10mbps/playlist.m3u8"
     },
     {
-        "title": "Pick Up Girl",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARPickUpGirlsTGFull15mbps/playlist.m3u8"
+        "title": "Putol Putol Na Langit",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARPutolPutolNaLangitTGFULL10mbps/playlist.m3u8"
     }
 ]
