@@ -1,28 +1,26 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/1KvKVI9bTAgvYDHZO6QkCPXF7uD.jpg",
+        "title": "Calapan Jaibreak",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARCalapanJailBreakTGFull25mbps/playlist.m3u8"
+    },
+    {
+        "title": "Yakapin Mo Ako, Lalaking Matapang",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARYakapinMoAkoLalakingMatapangTGSanitized25mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/AnnSGvt6q2KguOG9VIHTkNA5gjX.jpg",
         "category": "Pinoy Films",
-        "title": "It Takes a Man and a Woman (2013)",
-        "url": "https://flashstream.cc/pl/KDFWtFb-PS/0-0?e="
+        "title": "English Only, Please (2014)",
+        "url": "https://flashstream.cc/pl/NVl33gQwuC/0-0?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/ggz4jp0B0OnM3TIC7sdfsHFb4o5.jpg",
+        "title": "Hello, Love, Again",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/15620.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/4FPlIQWRUSVEpuda19izUDO2GKr.jpg",
         "category": "Pinoy Films",
-        "title": "Sukob (2006)",
-        "url": "https://flashstream.cc/pl/g79V6IftGP/0-0?e="
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/jv9gIvtN4AoYBBuOujO4clZmDw.jpg",
-        "category": "Pinoy Films",
-        "title": "A Cup of Flavor (2023)",
-        "url": "https://flashstream.cc/pl/OwWHAeOVxq/0-0?e="
-    },
-    {
-        "title": "Ang Dalawang Mrs. Reyes",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/61.mp4"
-    },
-    {
-        "title": "Pick Up Girl",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARPickUpGirlsTGFull15mbps/playlist.m3u8"
+        "title": "Miracle in Cell No. 7 (2019)",
+        "url": "https://flashstream.cc/pl/Fl3vfDxxkd/0-0?e="
     }
 ]
