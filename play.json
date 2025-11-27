@@ -1,28 +1,28 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/uTiuop9jtUaL6oRw5aacEpe5K5E.jpg",
+        "title": "Mang Jose",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/471.mp4"
+    },
+    {
+        "title": "Boogie",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARBoogieFULL10mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/aWywFJGglE75WIkOihIHg1l6716.jpg",
         "category": "Pinoy Films",
-        "title": "My Perfect You (2018)",
-        "url": "https://flashstream.cc/pl/1dV8QeNdvu/0-0?e="
+        "title": "Hyphen (2024)",
+        "url": "https://flashstream.cc/pl/Aw6-mj3vExOY3FO/0-0?e="
     },
     {
-        "title": "SGT. Lito Amar: Kamandag Ng Dagat-Dagatan",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/ATB4FilmsInternationalLitoAmarKamandagNgDagatdagatanTGPHFullLowbit/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/ZvRTtTmi7daal0VbVGkkZu2E1N.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/oKY6EbKB3OZaJEyOnRBOtH1Y21c.jpg",
         "category": "Pinoy Films",
-        "title": "Five Breakups and a Romance (2023)",
-        "url": "https://flashstream.cc/pl/IzALc0qv94/0-0?e="
+        "title": "The Third Party (2016)",
+        "url": "https://flashstream.cc/pl/T20uHQ_g4T/0-0?e="
     },
     {
-        "title": "Durugin: Anay ng Lipunan",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARDuruginAnayngLipunanTGFull25mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/cfJqPnKjWTQJPWoNsMkeqpJzla4.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/8E9Tbz8X1xLdtpMU9rMhiUdWXZs.jpg",
         "category": "Pinoy Films",
-        "title": "Sa Muli (2023)",
-        "url": "https://flashstream.cc/pl/UbS0tRnjAl/0-0?e="
+        "title": "The Trigonal: Fight for Justice (2018)",
+        "url": "https://flashstream.cc/pl/jRxfG5vkSd/0-0?e="
     }
 ]
