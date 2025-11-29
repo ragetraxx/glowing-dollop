@@ -1,24 +1,26 @@
 [
     {
-        "title": "Jerico (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNJericoTGPHSanitizedLowbit/playlist.m3u8"
-    },
-    {
-        "title": "The Dark Below (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNTheDarkBelowTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "title": "Magkasangga 2000",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARMagkasanggaSaBatasTGSanitized10mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/4832PQ0UZ6QT1KPlpRtjuDI4bjg.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/jzuV6Ob10ARUYhcMdcuE3Bfr2NZ.jpg",
         "category": "Pinoy Films",
-        "title": "Friendly Fire (2024)",
-        "url": "https://flashstream.cc/pl/ZCsymewX5K/0-0?e="
+        "title": "Cry No Fear (2018)",
+        "url": "https://flashstream.cc/pl/11vX4IifL5/0-0?e="
     },
     {
-        "title": "Nazareno Apostol: Boy Ahas",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARNazarenoApostolBoyAhasTGFull25mbps/playlist.m3u8"
+        "title": "Always",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/500.mp4"
+    },
+    {
+        "title": "Dead On Time (Dubbed in Tagalog)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/WPEDeadOnTimeTGFULL10mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/hZZHvrb3aSUkbkk7IgKYsrplmyE.jpg",
+        "category": "Pinoy Films",
+        "title": "Shake Rattle and Roll Fourteen: The Invasion (2012)",
+        "url": "https://flashstream.cc/pl/lfz35kx4OL/0-0?e="
+    },
+    {
+        "title": "Mapupulang Rosas",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARMapupulangRosasTGFULL25mbps/playlist.m3u8"
     }
 ]
