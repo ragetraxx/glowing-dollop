@@ -1,28 +1,26 @@
 [
     {
-        "title": "The Fighting Mayor",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARTheFightingMayorTGFull15mbps/playlist.m3u8"
+        "title": "Ang Panday",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/473.mp4"
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/nchHIUYqFXD5q4Xp5DVj7NCxhIr.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/7R940b9RNNKLDrAI1GmCjOd5ta.jpg",
         "category": "Pinoy Films",
-        "title": "You Changed My Life (2009)",
-        "url": "https://flashstream.cc/pl/EWB_I8rd-W/0-0?e="
+        "title": "Hello, Love, Again (2024)",
+        "url": "https://flashstream.cc/pl/47r98BYaNp/0-0?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/kZJEQFk6eiZ9X2x70ve6R1dczus.jpg",
+        "title": "Ligaw Tingin, Halik Hangin",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARLigawTinginHalikHanginTGFull15mbps/playlist.m3u8"
+    },
+    {
+        "title": "Get Happy (Dubbed in Tagalog)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNGetHappyTGFULL10mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/vl3MMPcYMVhSmoyby3eaI6CPbGT.jpg",
         "category": "Pinoy Films",
-        "title": "Meet Me in St. Gallen (2018)",
-        "url": "https://flashstream.cc/pl/_LYtp3FZDn/0-0?e="
-    },
-    {
-        "title": "Instant Daddy",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/5176.mp4"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/3yVrnuBH1cV1APK80BijYrru32e.jpg",
-        "category": "Pinoy Films",
-        "title": "Pagpag 24/7 (2024)",
-        "url": "https://flashstream.cc/pl/wL86AeX8LC/0-0?e="
+        "title": "The Super Parental Guardians (2016)",
+        "url": "https://flashstream.cc/pl/8AAVoSTubi/0-0?e="
     }
 ]
