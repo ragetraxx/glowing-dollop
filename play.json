@@ -1,24 +1,28 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/bJWSi20OXHPgcw8FWBwOi0tXbXk.jpg",
+        "title": "The Rise and Fall of Bigtime Berto",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/bigtimebertoforyoutube/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/ujnvceG8jovPh4sr7kiP13UAX8K.jpg",
         "category": "Pinoy Films",
-        "title": "A Hard Day (2021)",
-        "url": "https://flashstream.cc/pl/ctXIAgkKJH/0-0?e="
+        "title": "Must Be... Love (2013)",
+        "url": "https://flashstream.cc/pl/UEaBEuQdlp/0-0?e="
     },
     {
-        "title": "A Journey",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/7272.mp4"
+        "title": "Boy Recto",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SolarBoyRectoTGPHFullLowbit/playlist.m3u8"
     },
     {
-        "title": "Tililing",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/482.mp4"
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/kz0jM9Uw15ElDXQSpfNQupZuLPI.jpg",
+        "category": "Pinoy Films",
+        "title": "Seasons (2023)",
+        "url": "https://flashstream.cc/pl/Hio5ImcX80/0-0?e="
     },
     {
-        "title": "The Danger Element (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/WPETheDangerElementTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "title": "Seven Sundays",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/132.mp4"
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/kfBFJyfw3q7hfnzV2ApPpDpDLCd.jpg",
+        "category": "Pinoy Films",
+        "title": "Seklusyon (2016)",
+        "url": "https://flashstream.cc/pl/g-4mk7pxOS/0-0?e="
     }
 ]
