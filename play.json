@@ -1,26 +1,30 @@
 [
     {
-        "title": "Ang Panday",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/473.mp4"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/7R940b9RNNKLDrAI1GmCjOd5ta.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/hBdxtcKyIyFzGvgsHQFk0AuhDFw.jpg",
         "category": "Pinoy Films",
-        "title": "Hello, Love, Again (2024)",
-        "url": "https://flashstream.cc/pl/47r98BYaNp/0-0?e="
+        "title": "Us, at The End of the Year (2019)",
+        "url": "https://flashstream.cc/pl/JYoU7AecOg/0-0?e="
     },
     {
-        "title": "Ligaw Tingin, Halik Hangin",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARLigawTinginHalikHanginTGFull15mbps/playlist.m3u8"
+        "title": "Durugin: Anay ng Lipunan",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARDuruginAnayngLipunanTGFull25mbps/playlist.m3u8"
     },
     {
-        "title": "Get Happy (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNGetHappyTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/vl3MMPcYMVhSmoyby3eaI6CPbGT.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/hpuDoV3npVRpWdO96PRbgvlGMJe.jpg",
         "category": "Pinoy Films",
-        "title": "The Super Parental Guardians (2016)",
-        "url": "https://flashstream.cc/pl/8AAVoSTubi/0-0?e="
+        "title": "Aswang (2019)",
+        "url": "https://flashstream.cc/pl/GpmgmXpGoo/0-0?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/aWywFJGglE75WIkOihIHg1l6716.jpg",
+        "category": "Pinoy Films",
+        "title": "Hyphen (2024)",
+        "url": "https://flashstream.cc/pl/Aw6-mj3vExOY3FO/0-0?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/zN0tnyteHaPoZddG79LlSYmvKIX.jpg",
+        "category": "Pinoy Films",
+        "title": "The Delivery Rider (2025)",
+        "url": "https://flashstream.cc/pl/bKinNNHDZJ2JLGB/0-0?e="
     }
 ]
