@@ -1,28 +1,26 @@
 [
     {
-        "title": "Connected (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/WPEConnectedTGFULL10mbps/playlist.m3u8"
+        "title": "Tayo Na Sa Dilim",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARTayonasadilimFulldMCSD242997tlPH20LK/playlist.m3u8"
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/puyv4IBV4BbvyvmFp41ozbxax1w.jpg",
+        "title": "Ligaya Katumbas Ng Buhay",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARLigayaKatumbasNgBuhay2003FulldMCSDInf242997tlPH20LK/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/6SBjaL1fldnpuctm5K5C0Gw2qPz.jpg",
         "category": "Pinoy Films",
-        "title": "Wedding Dress (2022)",
-        "url": "https://flashstream.cc/pl/EKgqNPxi5m/0-0?e="
+        "title": "Flower Girl (2025)",
+        "url": "https://flashstream.cc/pl/6GDjTw1VweyF5gv/0-0?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/rBzExQkeOGrZWbMZ3AIcTYSXm57.jpg",
+        "title": "Ang Sumpa ng Sirena (The Mermaid's Curse)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNTheMermaidsCurseTGFULL5mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/gtgltT1u4kVUJBocfRb1Xf2v1gu.jpg",
         "category": "Pinoy Films",
-        "title": "Never Not Love You (2018)",
-        "url": "https://flashstream.cc/pl/HVi01Zdn_C/0-0?e="
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/7dKxw6UqKCmMCdW4k1tTYeej2rl.jpg",
-        "category": "Pinoy Films",
-        "title": "Hija (2021)",
-        "url": "https://flashstream.cc/pl/EjLt8uVCpR/0-0?e="
-    },
-    {
-        "title": "Iskrokotoy",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARISKOROKOTOYTGFULL10mbps/playlist.m3u8"
+        "title": "Mama Susan's Friends (2023)",
+        "url": "https://flashstream.cc/pl/Nm3ndBzbvI/0-0?e="
     }
 ]
