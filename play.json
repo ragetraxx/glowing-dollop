@@ -1,26 +1,32 @@
 [
     {
-        "title": "AEIOU",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARAeiouTGSanitized15mbps/playlist.m3u8"
-    },
-    {
-        "title": "Mary Cherry Chua",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/3051.mp4"
-    },
-    {
-        "title": "DOTGA: Da One That Ghost Away",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/475.mp4"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/59aQUGBkMubMDZIQzovfjn10239.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/3xlYjpUHKCpkVRz3MKOUCA9dl86.jpg",
         "category": "Pinoy Films",
-        "title": "Lacerating Transmutation (2023)",
-        "url": "https://flashstream.cc/pl/n-bCbngfxS/0-0?e="
+        "title": "Shake, Rattle & Roll 13 (2011)",
+        "url": "https://flashstream.cc/pl/kP25x-2M1b/0-0?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/xj06CIlkAsozJAbl8Ovw2aXCg29.jpg",
+        "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/zN0tnyteHaPoZddG79LlSYmvKIX.jpg",
         "category": "Pinoy Films",
-        "title": "Finding Agnes (2020)",
-        "url": "https://flashstream.cc/pl/VQNQoYSFtz/0-0?e="
+        "title": "The Delivery Rider (2025)",
+        "url": "https://flashstream.cc/pl/bKinNNHDZJ2JLGB/0-0?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/hAdSVSwrqMgKQ75DQQYoxXsto8.jpg",
+        "category": "Pinoy Films",
+        "title": "The Girl in the Orange Dress (2018)",
+        "url": "https://flashstream.cc/pl/yDboUi40BM/0-0?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/98NynscUUYUcNbwY1NLAhjPBsCt.jpg",
+        "category": "Pinoy Films",
+        "title": "Mary, Marry Me (2018)",
+        "url": "https://flashstream.cc/pl/qI-LXUxlL5/0-0?e="
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/isz6CbfX4LAMfngpubXiZJNUmUO.jpg",
+        "category": "Pinoy Films",
+        "title": "Shake, Rattle & Roll XV (2014)",
+        "url": "https://flashstream.cc/pl/4Z39N0nojz/0-0?e="
     }
 ]
