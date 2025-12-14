@@ -1,28 +1,26 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/tbBoJnQiqCcLYSySmyWi2qduqiQ.jpg",
+        "title": "AEIOU",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARAeiouTGSanitized15mbps/playlist.m3u8"
+    },
+    {
+        "title": "Mary Cherry Chua",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/3051.mp4"
+    },
+    {
+        "title": "DOTGA: Da One That Ghost Away",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/475.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/59aQUGBkMubMDZIQzovfjn10239.jpg",
         "category": "Pinoy Films",
-        "title": "Kiss in the Wind (2015)",
-        "url": "https://flashstream.cc/pl/_3hlGlw-km/0-0?e="
+        "title": "Lacerating Transmutation (2023)",
+        "url": "https://flashstream.cc/pl/n-bCbngfxS/0-0?e="
     },
     {
-        "title": "Connected (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/WPEConnectedTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "title": "Ang Sumpa ng Sirena (The Mermaid's Curse)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNTheMermaidsCurseTGFULL5mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://image.tmdb.org/t/p/original/qzgqskA5lLE2W9pXNyu12GkNSeU.jpg",
-        "category": "Film Library",
-        "title": "Isolated (2025)",
-        "url": "https://flashstream.cc/pl/uKKFu-g3f6qpObs/0-0?e="
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/2nRzejJcwbGyZsgwnfcDU7sVh3f.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/xj06CIlkAsozJAbl8Ovw2aXCg29.jpg",
         "category": "Pinoy Films",
-        "title": "Brutal (1980)",
-        "url": "https://flashstream.cc/pl/wAdhkQCoij/0-0?e="
+        "title": "Finding Agnes (2020)",
+        "url": "https://flashstream.cc/pl/VQNQoYSFtz/0-0?e="
     }
 ]
