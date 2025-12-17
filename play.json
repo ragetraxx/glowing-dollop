@@ -1,24 +1,26 @@
 [
     {
-        "title": "Kumakasa Kahit Nag-iisa",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARKumakasaKahitNagiisaTGFULL10mbps/playlist.m3u8"
+        "title": "Always Be My Maybe",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/14762.mp4"
     },
     {
-        "title": "Mang Jose",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/471.mp4"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/bVjtnBZCprzDFgo5M0BbC9nB0Co.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/pP6mmhuaNmfpGAn1qNd4ZjSWpbY.jpg",
         "category": "Pinoy Films",
-        "title": "The Ultimate Oppa (2022)",
-        "url": "https://flashstream.cc/pl/6Clx7E6s4T/0-0?e="
+        "title": "You Animal! The Nimfa Dimaano Story (2020)",
+        "url": "https://flashstream.cc/pl/N5Q5uj6F7g/0-0?e="
     },
     {
-        "title": "I Love Lizzy",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/594.mp4"
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/2xleZc3H7AUhqyu1O9tHuUpPJgU.jpg",
+        "category": "Pinoy Films",
+        "title": "Lilim (2025)",
+        "url": "https://flashstream.cc/pl/pQjA6vGTVN/0-0?e="
     },
     {
-        "title": "AEIOU",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARAeiouTGSanitized15mbps/playlist.m3u8"
+        "title": "Hello, Universe!",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/476.mp4"
+    },
+    {
+        "title": "Boogie",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARBoogieFULL10mbps/playlist.m3u8"
     }
 ]
