@@ -1,28 +1,28 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/vXER4sQPAa5X8XwhPKmNPvK4UzJ.jpg",
+        "title": "Lolo and the Kid",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/13370.mp4"
+    },
+    {
+        "title": "The Dark Below (Dubbed in Tagalog)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/ITNTheDarkBelowTGFULL10mbps/playlist.m3u8"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/vvcqap2J7F3Aoik7OpE3577TnkV.jpg",
         "category": "Pinoy Films",
-        "title": "Feng Shui 2 (2014)",
-        "url": "https://flashstream.cc/pl/DiFtplKCqQ/0-0?e="
+        "title": "Mang Jose (2021)",
+        "url": "https://flashstream.cc/pl/tbSDOp7kGh/0-0?e="
     },
     {
-        "title": "Pick Up Girl",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARPickUpGirlsTGFull15mbps/playlist.m3u8"
-    },
-    {
-        "title": "Sugat Sa Puri",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARSugatSaPuri1997FulldMCSDInf242997tlPH20LK/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/9FE7LHY4E3s9nHmgeU7cpmMuvTU.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/rJi1Nh2xuw1NudSTklF5flFPMbV.jpg",
         "category": "Pinoy Films",
-        "title": "The ExorSIS (2021)",
-        "url": "https://flashstream.cc/pl/PZSNpr3nmi/0-0?e="
+        "title": "Saving Sally (2016)",
+        "url": "https://flashstream.cc/pl/luPYK3F5Si/0-0?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/lWnsL80pKGFoV3mKTR7jOBVrc14.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/7YHH7ol7GIG89tw0TkGy0y7gwD5.jpg",
         "category": "Pinoy Films",
-        "title": "The Cheating Game (2023)",
-        "url": "https://flashstream.cc/pl/t4VrR5TTGo/0-0?e="
+        "title": "Adarna Gang (2022)",
+        "url": "https://flashstream.cc/pl/BYAJxw9tiY/0-0?e=SkQvQ2ZTYy9KOHNqYXlXT2crSzJiZWVTc293Rzl4TkZ5dWxjRzBmNkRncz0E"
     }
 ]
