@@ -1,28 +1,28 @@
 [
     {
-        "title": "The Fighting Mayor",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARTheFightingMayorTGFull15mbps/playlist.m3u8"
+        "title": "Iskrokotoy",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARISKOROKOTOYTGFULL10mbps/playlist.m3u8"
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/8pPcBBiQ1XdHTcRBgU8WrHkiGEv.jpg",
+        "title": "Mary Cherry Chua",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/3051.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/cTi6t2F7i5MjhqRIEBjav6GJLfa.jpg",
         "category": "Pinoy Films",
-        "title": "Kita Kita (2017)",
-        "url": "https://flashstream.cc/pl/AaiIrxtoFq/0-0?e="
+        "title": "Baby Boy, Baby Girl (2023)",
+        "url": "https://flashstream.cc/pl/ncheV6gDXj/0-0?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/vvcqap2J7F3Aoik7OpE3577TnkV.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/iLRNcubYiSIYPDeSX4nvm7WhH7O.jpg",
         "category": "Pinoy Films",
-        "title": "Mang Jose (2021)",
-        "url": "https://flashstream.cc/pl/tbSDOp7kGh/0-0?e="
+        "title": "Maybe This Time (2014)",
+        "url": "https://flashstream.cc/pl/tlWikf9RmK/0-0?e="
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/chfovjYJvhjk6YsMUbmsbAyy8yH.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/eggMe506MiKRzDKuY1yAO71sUGY.jpg",
         "category": "Pinoy Films",
-        "title": "Ex Ex Lovers (2025)",
-        "url": "https://flashstream.cc/pl/dWKNjvk_OW/0-0?e="
-    },
-    {
-        "title": "First Love",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/5189.mp4"
+        "title": "A Very Special Love (2008)",
+        "url": "https://flashstream.cc/pl/Rfehd21e9y/0-0?e="
     }
 ]
