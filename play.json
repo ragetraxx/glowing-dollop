@@ -1,28 +1,24 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/yyXTgOcwC4VBKXgXi9CvWsM5YYR.jpg",
+        "title": "Love the Way U Lie",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/130.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/hpuDoV3npVRpWdO96PRbgvlGMJe.jpg",
         "category": "Pinoy Films",
-        "title": "Chances Are, You and I (2024)",
-        "url": "https://flashstream.cc/pl/11BNfzDk-B/0-0?e="
+        "title": "Aswang (2019)",
+        "url": "https://flashstream.cc/pl/GpmgmXpGoo/0-0?e="
     },
     {
-        "title": "Pakboys: Takusa",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/472.mp4"
+        "title": "The Fearless Hyena (Dubbed in Tagalog)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/DIMFearlessHyenaTGFULL10mbps/playlist.m3u8"
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/d6aiEgFoFfWrdXwxdn52mTfDCnx.jpg",
-        "category": "Pinoy Films",
-        "title": "Three Words to Forever (2018)",
-        "url": "https://flashstream.cc/pl/m22z--ck3-/0-0?e="
+        "title": "The Danger Element (Dubbed in Tagalog)",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/WPETheDangerElementTGFULL10mbps/playlist.m3u8"
     },
     {
-        "title": "Pick Up Girl",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARPickUpGirlsTGFull15mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/dPAox7jGScLBvxKLeRptJIBF7v.jpg",
-        "category": "Pinoy Films",
-        "title": "Spellbound (2023)",
-        "url": "https://flashstream.cc/pl/h5-d0gCFbP/0-0?e="
+        "title": "Parehas Ang Laban",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARParehasAngLabanTGFULL10mbps/playlist.m3u8"
     }
 ]
