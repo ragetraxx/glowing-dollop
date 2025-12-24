@@ -1,24 +1,28 @@
 [
     {
-        "title": "Dugo Ng Pusakal",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/DugoNgPusakalFULL10mbps/playlist.m3u8"
-    },
-    {
-        "title": "11 Blocks (Dubbed in Tagalog)",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/WPE11BlocksTGFULL10mbps/playlist.m3u8"
-    },
-    {
-        "title": "Kahit Sa Kabilang Buhay",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARKahitSaKabilangBuhayFULL10mbps/playlist.m3u8"
-    },
-    {
-        "title": "Alyas Baby Tsino",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SolarAlyasBabyTsinoTGPHFullLowbitSanitized/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/5TcYBdDTaPnsuPQsYFBciZetV2Q.jpg",
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/49vo5bVMhivoA3md8GbmGzzn05N.jpg",
         "category": "Pinoy Films",
-        "title": "Cinco (2010)",
-        "url": "https://flashstream.cc/pl/ucE2trx4NE/0-0?e="
+        "title": "Stalked by My Ex (2017)",
+        "url": "https://flashstream.cc/pl/-b4mudHUwt/0-0?e="
+    },
+    {
+        "title": "Metro Manila",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/8880.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/2nRzejJcwbGyZsgwnfcDU7sVh3f.jpg",
+        "category": "Pinoy Films",
+        "title": "Brutal (1980)",
+        "url": "https://flashstream.cc/pl/wAdhkQCoij/0-0?e="
+    },
+    {
+        "title": "I Love Lizzy",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/594.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/bHSLUElWl3CDG05mgM6d4wBrSGO.jpg",
+        "category": "Pinoy Films",
+        "title": "The Missing (2020)",
+        "url": "https://flashstream.cc/pl/Wiq8_Yz_pG/0-0?e="
     }
 ]
