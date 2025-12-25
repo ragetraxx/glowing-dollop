@@ -1,28 +1,24 @@
 [
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/7wJGOAQGleC7mWJRRN1aCym0oM8.jpg",
+        "title": "To Russia with Love",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/505.mp4"
+    },
+    {
+        "title": "Babaylan",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/470.mp4"
+    },
+    {
+        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/7YHH7ol7GIG89tw0TkGy0y7gwD5.jpg",
         "category": "Pinoy Films",
-        "title": "Insiang (1976)",
-        "url": "https://flashstream.cc/pl/4Xn0wlFpJN/0-0?e="
+        "title": "Adarna Gang (2022)",
+        "url": "https://flashstream.cc/pl/BYAJxw9tiY/0-0?e=SkQvQ2ZTYy9KOHNqYXlXT2crSzJiZWVTc293Rzl4TkZ5dWxjRzBmNkRncz0E"
     },
     {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/a1Eubtd5zCISRsGxpd3CiAYkBao.jpg",
-        "category": "Pinoy Films",
-        "title": "Lolo and the Kid (2024)",
-        "url": "https://flashstream.cc/pl/FbnIkxgkT2/0-0?e="
+        "title": "Martyr or Murderer",
+        "url": "http://103.236.179.86:80/movie/rictms/rictms/597.mp4"
     },
     {
-        "title": "Chick Boy",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARChickBoyFULL10mbps/playlist.m3u8"
-    },
-    {
-        "title": "Nazareno Apostol: Boy Ahas",
-        "url": "https://jungotvmedia.chanall.tv/jungotv/SOLARNazarenoApostolBoyAhasTGFull25mbps/playlist.m3u8"
-    },
-    {
-        "image": "https://media.themoviedb.org/t/p/w440_and_h660_face/ykn3suu78PQz4hx0t0wZfuQzmLQ.jpg",
-        "category": "Pinoy Films",
-        "title": "As If It's True (2023)",
-        "url": "https://flashstream.cc/pl/5SbSwhqGUV/0-0?e="
+        "title": "Dalmacio Armas",
+        "url": "https://jungotvmedia.chanall.tv/jungotv/DALMACIOARMASFULLMOVIEStarringRamonZamoraGinaAlajarRolandDantesRobertTalabisR/playlist.m3u8"
     }
 ]
