@@ -1,43 +1,41 @@
 import json
 import random
-import os
 
-# ✅ Configuration
-MOVIE_FILE = "movies.json"
-PLAY_FILE = "play.json"
+MOVIE_FILE = "movies.json"  # Permanent source JSON file
+PLAY_FILE = "play.json"  # Stores selected movies
 
-def load_json(filename):
-    """Load JSON data from a local file."""
-    if not os.path.exists(filename):
-        print(f"❌ Error: {filename} not found in the current folder.")
-        return []
+def load_movies(filename):
+    """Load movies from a specified JSON file"""
     try:
         with open(filename, "r", encoding="utf-8") as file:
-            data = json.load(file)
-            return data if isinstance(data, list) else []
-    except Exception as e:
-        print(f"❌ Failed to parse {filename}: {e}")
+            return json.load(file)
+    except (FileNotFoundError, json.JSONDecodeError):
         return []
 
+def save_play_movies(movies):
+    """Overwrite play.json with new selected movies"""
+    with open(PLAY_FILE, "w", encoding="utf-8") as file:
+        json.dump(movies, file, indent=4)
+
 def update_play_json():
-    # 1. Load movies from the local movies.json
-    all_movies = load_json(MOVIE_FILE)
-    
-    if not all_movies:
-        print("❌ Error: No movies found to select from.")
-        return
+    """Randomly select 15 movies not already played and overwrite play.json"""
+    all_movies = load_movies(MOVIE_FILE)  # Load all available movies
+    played_movies = load_movies(PLAY_FILE)  # Load previously played movies
 
-    # 2. Randomly select 15 movies (or all if total < 15)
-    count = min(len(all_movies), 15)
-    selected_movies = random.sample(all_movies, count)
+    # Filter out movies that have already been played
+    available_movies = [movie for movie in all_movies if movie not in played_movies]
 
-    # 3. Save the selection to play.json
-    try:
-        with open(PLAY_FILE, "w", encoding="utf-8") as file:
-            json.dump(selected_movies, file, indent=4)
-        print(f"✅ play.json created/updated with {count} random movies.")
-    except Exception as e:
-        print(f"❌ Failed to save {PLAY_FILE}: {e}")
+    # If there are not enough movies left, reset the cycle
+    if len(available_movies) < 15:
+        print("All movies have been played. Restarting the cycle.")
+        available_movies = all_movies  # Reset to all movies
+
+    # Randomly select 5 new movies
+    selected_movies = random.sample(available_movies, 15)
+
+    # Overwrite play.json with the new selection
+    save_play_movies(selected_movies)
+    print("Updated play.json with 15 new movies.")
 
 if __name__ == "__main__":
     update_play_json()
