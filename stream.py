@@ -11,113 +11,105 @@ FONT_PATH = os.path.abspath("Roboto-Black.ttf")
 RETRY_DELAY = 60
 PREBUFFER_SECONDS = 5
 
+# ✅ Sanity Checks
 if not RTMP_URL:
-    print("❌ ERROR: RTMP_URL environment variable is not set!")
+    print("❌ ERROR: RTMP_URL is not set!")
     exit(1)
 
-def load_playlist():
+for path, name in [(PLAY_FILE, "Playlist JSON"), (OVERLAY, "Overlay Image"), (FONT_PATH, "Font File")]:
+    if not os.path.exists(path):
+        print(f"❌ ERROR: {name} '{path}' not found!")
+        exit(1)
+
+def load_movies():
     try:
-        if not os.path.exists(PLAY_FILE):
-            return []
-        with open(PLAY_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError):
+        with open(PLAY_FILE, "r") as f:
+            return json.load(f) or []
+    except Exception as e:
+        print(f"❌ Failed to load {PLAY_FILE}: {e}")
         return []
 
 def escape_drawtext(text):
     return text.replace('\\', '\\\\\\\\').replace(':', '\\:').replace("'", "\\'")
 
-def build_ffmpeg_command(url, title, key=None):
+def build_ffmpeg_command(url, title):
     text = escape_drawtext(title)
-    
-    # ✅ Mimic a legitimate iWantTFC browser session to bypass 404/403
+
+    # ✅ Always spoof VLC User-Agent for all formats
     input_options = [
-        "-user_agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-        "-headers", "Referer: https://www.iwanttfc.com/\r\nOrigin: https://www.iwanttfc.com\r\n",
-        "-allowed_extensions", "ALL",
-        "-reconnect", "1", 
-        "-reconnect_at_eof", "1", 
-        "-reconnect_streamed", "1", 
-        "-reconnect_delay_max", "5",
-        "-fflags", "+genpts+discardcorrupt"
+        "-user_agent", "VLC/3.0.18 LibVLC/3.0.18",
+        "-headers", "Referer: https://hollymoviehd.cc\r\n"
     ]
-    
-    # ✅ DASH decryption key usage
-    if key:
-        input_options.extend(["-decryption_key", key])
 
     return [
-        "ffmpeg", "-re", "-loglevel", "info",
-        *input_options, 
-        "-i", url, 
+        "ffmpeg",
+        "-re",
+        "-fflags", "+nobuffer",
+        "-flags", "low_delay",
+        "-threads", "1",
+        "-ss", str(PREBUFFER_SECONDS),
+        *input_options,
+        "-i", url,             # Works with mkv, mp4, avi, mov, m3u8, etc.
         "-i", OVERLAY,
         "-filter_complex",
-        f"[0:v]scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1[v];"
+        f"[0:v]scale=1280:720:flags=lanczos,unsharp=5:5:0.8:5:5:0.0[v];"
         f"[1:v]scale=1280:720[ol];"
         f"[v][ol]overlay=0:0[vo];"
-        f"[vo]drawtext=fontfile='{FONT_PATH}':text='{text}':fontcolor=white:fontsize=22:x=40:y=40:shadowcolor=black:shadowx=2:shadowy=2",
-        "-r", "29.97", 
-        "-c:v", "libx264", "-preset", "ultrafast", "-tune", "zerolatency",
-        "-g", "60", "-b:v", "2500k", "-maxrate", "2500k", "-bufsize", "5000k",
-        "-pix_fmt", "yuv420p", 
-        "-c:a", "aac", "-b:a", "128k", "-ar", "48000", "-ac", "2",
-        "-f", "flv", RTMP_URL
+        f"[vo]drawtext=fontfile='{FONT_PATH}':text='{text}':fontcolor=white:fontsize=20:x=35:y=35",
+        "-r", "29.97",
+        "-c:v", "libx264",
+        "-preset", "ultrafast",
+        "-tune", "zerolatency",
+        "-g", "60",
+        "-keyint_min", "60",
+        "-sc_threshold", "0",
+        "-b:v", "1500k",
+        "-maxrate", "2000k",
+        "-bufsize", "2000k",
+        "-pix_fmt", "yuv420p",
+        "-c:a", "aac",
+        "-b:a", "128k",
+        "-ar", "48000",
+        "-ac", "2",
+        "-f", "flv",
+        RTMP_URL
     ]
 
 def stream_movie(movie):
-    title = movie.get("name", "Untitled")
-    # Clean URL of any potential JSON artifacts
-    url = movie.get("url", "").strip().replace('"', '')
-    key = movie.get("key")
+    title = movie.get("title", "Untitled")
+    url = movie.get("url")
 
     if not url:
-        print(f"⚠️ Skipping {title}: No URL found.")
+        print(f"❌ Skipping '{title}': no URL")
         return
 
-    print(f"🎬 Initializing Stream: {title}")
-    command = build_ffmpeg_command(url, title, key)
+    print(f"🎬 Now streaming: {title}")
+    command = build_ffmpeg_command(url, title)
 
     try:
-        # We capture stderr to monitor for 404s in real-time
-        process = subprocess.Popen(command, stderr=subprocess.PIPE, text=True, bufsize=1)
-        
+        process = subprocess.Popen(command, stdout=subprocess.DEVNULL, stderr=subprocess.PIPE, text=True)
         for line in process.stderr:
-            if "404 Not Found" in line:
-                print(f"❌ 404 Error: Link for '{title}' has expired.")
-                process.terminate()
-                return
             if "403 Forbidden" in line:
-                print(f"🚫 403 Error: Access denied for '{title}'. Check Geoblocking.")
-                process.terminate()
+                print(f"🚫 403 Forbidden! Skipping: {title}")
+                process.kill()
                 return
-            if "frame=" in line:
-                # This indicates the stream is actually running
-                pass 
-            
-        process.wait()
+            print(line.strip())
+        process.wait()  # ✅ Waits for full movie to finish
     except Exception as e:
-        print(f"❌ FFmpeg Error: {e}")
+        print(f"❌ FFmpeg crashed: {e}")
 
 def main():
-    print("🚀 PH-Movie Streamer Active...")
     while True:
-        playlist = load_playlist()
+        movies = load_movies()
+        if not movies:
+            print(f"📂 No entries in {PLAY_FILE}. Retrying in {RETRY_DELAY}s...")
+            time.sleep(RETRY_DELAY)
+            continue
 
-        if not playlist:
-            print("📂 Playlist empty. Refreshing via play.py...")
-            os.system("python3 play.py")
-            playlist = load_playlist()
-            if not playlist:
-                time.sleep(RETRY_DELAY)
-                continue
-
-        for movie in playlist:
+        for movie in movies:
             stream_movie(movie)
-            print("⏭️  Transitioning to next title...")
-            time.sleep(3)
-        
-        print("🔄 Batch complete. Fetching new movies...")
-        os.system("python3 play.py")
+            print("⏭️  Next movie in 5s...")
+            time.sleep(5)
 
 if __name__ == "__main__":
     main()
