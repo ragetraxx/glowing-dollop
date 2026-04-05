@@ -28,6 +28,7 @@ def escape_drawtext(text):
 def build_ffmpeg_command(url, title, key=None):
     text = escape_drawtext(title)
     
+    # ✅ Optimized for stability and decryption
     input_options = [
         "-user_agent", "VLC/3.0.18 LibVLC/3.0.18",
         "-headers", "Referer: https://hollymoviehd.cc\r\n",
@@ -54,7 +55,7 @@ def build_ffmpeg_command(url, title, key=None):
 
 def stream_movie(movie):
     title = movie.get("name", "Untitled")
-    # Cleans the URL of trailing slashes/quotes from your specific JSON sample
+    # Clean the URL from trailing quotes found in your JSON data
     url = movie.get("url", "").replace('\\"', '').replace('"', '').strip()
     key = movie.get("key")
 
@@ -78,20 +79,26 @@ def stream_movie(movie):
 def main():
     print("🚀 Streamer Started...")
     while True:
+        # 1. Load the current 15 movies
         playlist = load_playlist()
 
+        # 2. If play.json is missing or empty, trigger play.py
         if not playlist:
-            print("📂 play.json is empty. Run play.py.")
-            time.sleep(RETRY_DELAY)
-            continue
+            print("📂 play.json is empty. Running play.py to generate 15 movies...")
+            os.system("python3 play.py")
+            playlist = load_playlist()
+            if not playlist:
+                time.sleep(RETRY_DELAY)
+                continue
 
+        # 3. Stream the movies one by one
         for movie in playlist:
             stream_movie(movie)
-            print("⏭️  Next movie in 5s...")
+            print("⏭️  Short break before next movie...")
             time.sleep(5)
         
-        print("🔄 Finished the 15-movie block. Re-running play.py logic...")
-        # This will automatically pick 15 NEW random movies when the block ends
+        # 4. Once the 15 movies are done, run play.py again for a NEW batch
+        print("🔄 15 movies finished. Generating a new random batch...")
         os.system("python3 play.py")
 
 if __name__ == "__main__":
