@@ -12,7 +12,7 @@ RETRY_DELAY = 60
 PREBUFFER_SECONDS = 5
 
 if not RTMP_URL:
-    print("❌ ERROR: RTMP_URL is not set!")
+    print("❌ ERROR: RTMP_URL environment variable is not set!")
     exit(1)
 
 def load_playlist():
@@ -28,14 +28,11 @@ def escape_drawtext(text):
 def build_ffmpeg_command(url, title, key=None):
     text = escape_drawtext(title)
     
-    # ✅ Optimized input options for stability and decryption
     input_options = [
         "-user_agent", "VLC/3.0.18 LibVLC/3.0.18",
         "-headers", "Referer: https://hollymoviehd.cc\r\n",
-        "-reconnect", "1",
-        "-reconnect_at_eof", "1",
-        "-reconnect_streamed", "1",
-        "-reconnect_delay_max", "5"
+        "-reconnect", "1", "-reconnect_at_eof", "1",
+        "-reconnect_streamed", "1", "-reconnect_delay_max", "5"
     ]
     
     if key:
@@ -57,7 +54,7 @@ def build_ffmpeg_command(url, title, key=None):
 
 def stream_movie(movie):
     title = movie.get("name", "Untitled")
-    # Clean up trailing quotes/slashes from your JSON sample
+    # Cleans the URL of trailing slashes/quotes from your specific JSON sample
     url = movie.get("url", "").replace('\\"', '').replace('"', '').strip()
     key = movie.get("key")
 
@@ -84,7 +81,7 @@ def main():
         playlist = load_playlist()
 
         if not playlist:
-            print("📂 play.json empty. Run play.py first.")
+            print("📂 play.json is empty. Run play.py.")
             time.sleep(RETRY_DELAY)
             continue
 
@@ -93,9 +90,9 @@ def main():
             print("⏭️  Next movie in 5s...")
             time.sleep(5)
         
-        print("🔄 Finished 15 movies. Requesting a new batch...")
-        # Optional: You can trigger play.py automatically here if you want:
-        # os.system("python3 play.py")
+        print("🔄 Finished the 15-movie block. Re-running play.py logic...")
+        # This will automatically pick 15 NEW random movies when the block ends
+        os.system("python3 play.py")
 
 if __name__ == "__main__":
     main()
