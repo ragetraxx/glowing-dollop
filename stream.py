@@ -25,53 +25,62 @@ def load_playlist():
 def escape_drawtext(text):
     return text.replace('\\', '\\\\\\\\').replace(':', '\\:').replace("'", "\\'")
 
-def build_ffmpeg_command(url, title, key=None):
+def build_ffmpeg_command(url, title, key_id=None, key=None):
     text = escape_drawtext(title)
     
-    # ✅ Optimized for stability and decryption
+    # ✅ Optimized for stability
     input_options = [
-        "-user_agent", "VLC/3.0.18 LibVLC/3.0.18",
-        "-headers", "Referer: https://hollymoviehd.cc\r\n",
+        "-user_agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "-headers", "Referer: https://www.iwanttfc.com/\r\n",
         "-reconnect", "1", "-reconnect_at_eof", "1",
-        "-reconnect_streamed", "1", "-reconnect_delay_max", "5"
+        "-reconnect_streamed", "1", "-reconnect_delay_max", "5",
+        "-err_detect", "ignore_err"
     ]
     
+    # ✅ FIX: For Encrypted DASH, we use -decryption_key for the specific stream
+    # Note: Some FFmpeg versions require the format: -decryption_key <HEX_KEY>
     if key:
         input_options.extend(["-decryption_key", key])
 
     return [
-        "ffmpeg", "-re", "-fflags", "+nobuffer", "-flags", "low_delay", "-threads", "1",
-        "-ss", str(PREBUFFER_SECONDS), *input_options, "-i", url, "-i", OVERLAY,
+        "ffmpeg", "-re", "-fflags", "+nobuffer+genpts", "-flags", "low_delay", 
+        *input_options, "-i", url, "-i", OVERLAY,
         "-filter_complex",
-        f"[0:v]scale=1280:720:flags=lanczos,unsharp=5:5:0.8:5:5:0.0[v];"
+        f"[0:v]scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,setsar=1[v];"
         f"[1:v]scale=1280:720[ol];"
         f"[v][ol]overlay=0:0[vo];"
         f"[vo]drawtext=fontfile='{FONT_PATH}':text='{text}':fontcolor=white:fontsize=20:x=35:y=35",
         "-r", "29.97", "-c:v", "libx264", "-preset", "ultrafast", "-tune", "zerolatency",
-        "-g", "60", "-b:v", "1500k", "-maxrate", "2000k", "-bufsize", "2000k",
+        "-g", "60", "-b:v", "2500k", "-maxrate", "2500k", "-bufsize", "5000k",
         "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "128k", "-ar", "48000", "-ac", "2",
         "-f", "flv", RTMP_URL
     ]
 
 def stream_movie(movie):
     title = movie.get("name", "Untitled")
-    # Clean the URL from trailing quotes found in your JSON data
     url = movie.get("url", "").replace('\\"', '').replace('"', '').strip()
     key = movie.get("key")
+    key_id = movie.get("keyId")
 
     if not url:
         return
 
     print(f"🎬 Now streaming: {title}")
-    command = build_ffmpeg_command(url, title, key)
+    command = build_ffmpeg_command(url, title, key_id, key)
 
     try:
+        # We use stderr=subprocess.STDOUT to see errors in the console
         process = subprocess.Popen(command, stdout=subprocess.DEVNULL, stderr=subprocess.PIPE, text=True)
+        
         for line in process.stderr:
+            print(f"DEBUG: {line.strip()}") # Watch this to see why it fails
             if "403 Forbidden" in line:
                 print(f"🚫 403 Forbidden! Skipping: {title}")
                 process.kill()
                 return
+            if "Error" in line or "Invalid data" in line:
+                if "decryption" in line.lower():
+                    print(f"🔑 Decryption error on: {title}")
         process.wait() 
     except Exception as e:
         print(f"❌ FFmpeg crashed: {e}")
@@ -79,26 +88,22 @@ def stream_movie(movie):
 def main():
     print("🚀 Streamer Started...")
     while True:
-        # 1. Load the current 15 movies
         playlist = load_playlist()
 
-        # 2. If play.json is missing or empty, trigger play.py
         if not playlist:
-            print("📂 play.json is empty. Running play.py to generate 15 movies...")
+            print("📂 play.json is empty. Running play.py...")
             os.system("python3 play.py")
             playlist = load_playlist()
             if not playlist:
                 time.sleep(RETRY_DELAY)
                 continue
 
-        # 3. Stream the movies one by one
         for movie in playlist:
             stream_movie(movie)
             print("⏭️  Short break before next movie...")
             time.sleep(5)
         
-        # 4. Once the 15 movies are done, run play.py again for a NEW batch
-        print("🔄 15 movies finished. Generating a new random batch...")
+        print("🔄 15 movies finished. Refreshing...")
         os.system("python3 play.py")
 
 if __name__ == "__main__":
