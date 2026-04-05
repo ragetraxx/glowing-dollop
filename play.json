@@ -1,73 +1,17 @@
 [
     {
-        "name": "Wild Little Love",
-        "url": "https://pql-static.abs-cbn.com/images/wildlittlelove.herobg-tv.jpg\"",
-        "logo": "https://pql-static.abs-cbn.com/images/wildlittlelove.herobg-tv.jpg",
-        "keyId": "e13a06ef29c54f63a59947c6cf2a689b",
-        "key": "8cb4ba8a1aca4321790cd2557b61f598"
+        "name": "Bitukang Manok",
+        "url": "https://iwant-video.akamaized.net/bitukangmanok/20a2d917-d81c-4eb1-8c37-283f7aba0dc0/manifest.mpd",
+        "logo": "https://pql-static.abs-cbn.com/images/bitukangmanok.herobg-tv.jpg",
+        "keyId": "726eee9b06ec4747b5db51954d038f55",
+        "key": "c6092f7c9657cedb9e9bc40939b308f9"
     },
     {
-        "name": "Changing Partners",
-        "url": "https://pql-static.abs-cbn.com/images/changingpartners.herobg-tv.jpg\"",
-        "logo": "https://pql-static.abs-cbn.com/images/changingpartners.herobg-tv.jpg",
-        "keyId": "90e349f37d544fbdbd202c748b697ab1",
-        "key": "052357f7a65fb35d012729437385f05b"
-    },
-    {
-        "name": "We Will Not Die Tonight",
-        "url": "https://pql-static.abs-cbn.com/images/wewillnotdietonight.herobg-tv.jpg\"",
-        "logo": "https://pql-static.abs-cbn.com/images/wewillnotdietonight.herobg-tv.jpg",
-        "keyId": "2f0865de02764894bb965010b3f87481",
-        "key": "35308c742ab01a583e6f0f15cea22c57"
-    },
-    {
-        "name": "Alab sa Lansangan: The September 21 Protests Against Corruption in the Philippines",
-        "url": "https://pql-static.abs-cbn.com/images/alabsalansangan.herobg-tv.JPG\"",
-        "logo": "https://pql-static.abs-cbn.com/images/alabsalansangan.herobg-tv.JPG",
-        "keyId": "7f3b10b776c845d5bd968e2740ff27d0",
-        "key": "6ea1473ed501c9c8def2c3df6804e34b"
-    },
-    {
-        "name": "Quezon's Game",
-        "url": "https://pql-static.abs-cbn.com/images/quezonsgame.herobg-tv.jpg\"",
-        "logo": "https://pql-static.abs-cbn.com/images/quezonsgame.herobg-tv.jpg",
-        "keyId": "d28a0c498c3e4b158043e24d09f4b502",
-        "key": "cac4dc6a07d3e4ecbe0ed7c03fb09780"
-    },
-    {
-        "name": "Kung Fu Divas",
-        "url": "https://pql-static.abs-cbn.com/images/kungfudivas.herobg-tv.jpg\"",
-        "logo": "https://pql-static.abs-cbn.com/images/kungfudivas.herobg-tv.jpg",
-        "keyId": "e635484ba0594a45988a89c3e9aa850b",
-        "key": "7ba994dd8c349e7e1549f93ed6d319ff"
-    },
-    {
-        "name": "Miss Philippines Earth 2025: The Silver Lining",
-        "url": "https://pql-static.abs-cbn.com/images/msphilsearth2025.herobg-tv.JPG\"",
-        "logo": "https://pql-static.abs-cbn.com/images/msphilsearth2025.herobg-tv.JPG",
-        "keyId": "ad4694c9a2624ca2b7d720b8d430851d",
-        "key": "365df86ae69c23e2d73933c25d0632b3"
-    },
-    {
-        "name": "Love Lockdown",
-        "url": "https://pql-static.abs-cbn.com/images/lovelockdown.herobg-tv.jpg\"",
-        "logo": "https://pql-static.abs-cbn.com/images/lovelockdown.herobg-tv.jpg",
-        "keyId": "56339852d3df4099b78206ea51c3d15c",
-        "key": "ba28a6966b0c8b25282b61f0fe9c4e83"
-    },
-    {
-        "name": "Everything About Her",
-        "url": "https://pql-static.abs-cbn.com/images/everythingabouther.herobg-tv.jpg\"",
-        "logo": "https://pql-static.abs-cbn.com/images/everythingabouther.herobg-tv.jpg",
-        "keyId": "fdc35c0bc7694fc285e9a5459e115335",
-        "key": "4331d0ee86cf31e40321b56a6ebc1bc6"
-    },
-    {
-        "name": "Kababalaghan 7: Pagkagat ng Dilim",
-        "url": "https://pql-static.abs-cbn.com/images/kababalaghan2025.herobg-tv.JPG\"",
-        "logo": "https://pql-static.abs-cbn.com/images/kababalaghan2025.herobg-tv.JPG",
-        "keyId": "14c9ad47a80b43ca9177d0cb46361236",
-        "key": "849a9f3dcd959dc45616fd0c64c88279"
+        "name": "One Great Love",
+        "url": "https://iwant-video.akamaized.net/onegreatlove/0691b346-d5ac-4ec1-a53f-d5648dc33be6/manifest.mpd",
+        "logo": "https://pql-static.abs-cbn.com/images/onegreatlove.herobg-tv.jpg",
+        "keyId": "3458710d34cc44c4bcee452bd13f7215",
+        "key": "0fba9adf60a70a33b1206cbe8d4c5a94"
     },
     {
         "name": "Here Comes The Bride",
@@ -77,31 +21,87 @@
         "key": "5cabf31d511346fa4840cd63b708b7fb"
     },
     {
-        "name": "I Love You Hater",
-        "url": "https://pql-static.abs-cbn.com/images/iloveyouhater.herobg-tv.jpg\"",
-        "logo": "https://pql-static.abs-cbn.com/images/iloveyouhater.herobg-tv.jpg",
-        "keyId": "9bcb5943e8a74a379e78189cd4fd1421",
-        "key": "4d021cdf2b1e08b9d00778ae07a84040"
-    },
-    {
-        "name": "Mano Po VII (Chinoy)",
-        "url": "https://pql-static.abs-cbn.com/images/manopo7chinoy.herobg-tv.jpg\"",
-        "logo": "https://pql-static.abs-cbn.com/images/manopo7chinoy.herobg-tv.jpg",
-        "keyId": "6467315f5b7a44c99dd3173ba9c2e868",
-        "key": "3143a84c1e144feef94385cd99b2f927"
+        "name": "Tenement66",
+        "url": "https://iwant-video.akamaized.net/tenement66/2a903b08-8026-42d6-8f70-da346ba594ba/manifest.mpd",
+        "logo": "https://pql-static.abs-cbn.com/images/tenement66.herobg-tv.jpg",
+        "keyId": "227fcbf1a35448b2bbe7bf650ebd250e",
+        "key": "b1dd919e65b5366597c4812ba243569b"
     },
     {
         "name": "It Takes a Man and a Woman",
-        "url": "https://pql-static.abs-cbn.com/images/ittakesamanandawoman.herobg-tv.jpg\"",
+        "url": "https://iwant-video.akamaized.net/ittakesamanandawoman/ee1c000a-e324-4945-a15e-b30f379a90d8/manifest.mpd",
         "logo": "https://pql-static.abs-cbn.com/images/ittakesamanandawoman.herobg-tv.jpg",
         "keyId": "900e0fffce7146a4924d9587e7d5b945",
         "key": "d248dba41d32bc33a09ed1f8a0555817"
     },
     {
-        "name": "One Great Love",
-        "url": "https://pql-static.abs-cbn.com/images/onegreatlove.herobg-tv.jpg\"",
-        "logo": "https://pql-static.abs-cbn.com/images/onegreatlove.herobg-tv.jpg",
-        "keyId": "3458710d34cc44c4bcee452bd13f7215",
-        "key": "0fba9adf60a70a33b1206cbe8d4c5a94"
+        "name": "The Reunion",
+        "url": "https://iwant-video.akamaized.net/thereunion/5303a4c0-a912-49ea-9521-ee9dce3269d5/manifest.mpd",
+        "logo": "https://pql-static.abs-cbn.com/images/thereunion.herobg-tv.jpg",
+        "keyId": "e82f0ec2b01c4aed9c3290665923d561",
+        "key": "e32f1c5ab2598a8e4242ee7f8ae6b90f"
+    },
+    {
+        "name": "Slumber Party",
+        "url": "https://iwant-video.akamaized.net/slumberparty/224258f0-a502-4ff4-87ae-77fc488391a1/manifest.mpd",
+        "logo": "https://pql-static.abs-cbn.com/images/slumberparty.herobg-tv.jpg",
+        "keyId": "f4d3669b948c420eabc910801f8d54bb",
+        "key": "4c8f27a37c72400b417d16152f87e8eb"
+    },
+    {
+        "name": "Kasal",
+        "url": "https://iwant-video.akamaized.net/kasal2018/0f23a3f6-fa88-4592-a9b4-627c475d32c8/manifest-1.mpd",
+        "logo": "https://pql-static.abs-cbn.com/images/kasal2018.herobg-tv.jpg",
+        "keyId": "6ab2d7ebb8ea4898820305220ce747f7",
+        "key": "fc49f37464d3ada12dbdc62d91c9ff30"
+    },
+    {
+        "name": "I'm Ellenya L.",
+        "url": "https://iwant-video.akamaized.net/imellenyal2019/c25572fc-87fe-4e8d-818b-dd0f0863dda7/manifest.mpd",
+        "logo": "https://pql-static.abs-cbn.com/images/imellenyal2019.herobg-tv.jpg",
+        "keyId": "3262cc5bf6ba4c42a92052d914878033",
+        "key": "71e3a979cdbd82c2ea9f22aadfad3b59"
+    },
+    {
+        "name": "From Hongkong to the Hague",
+        "url": "https://iwant-video-aws.akamaized.net/fromhongkongtothehague/e6aef127-ab15-4b44-9e93-fda31ead8841/manifest.mpd",
+        "logo": "https://pql-static.abs-cbn.com/images/fromhongkongtothehague.herobg-tv.JPG",
+        "keyId": "16f511ce479f4f54a251f559d286d184",
+        "key": "66b31a9e7a7e2418b4559149494c6d30"
+    },
+    {
+        "name": "Tayo Muna Habang Hind Pa Tayo",
+        "url": "https://iwant-video.akamaized.net/tayomunahabanghindipatayosubeng/dac9ab73-309a-4cc4-91f9-42cc6d868c91/manifest.mpd",
+        "logo": "https://pql-static.abs-cbn.com/images/tayomunahabanghindipatayosubeng.herobg-tv.jpg",
+        "keyId": "8e03e104ee994b91966f777a60da8fc9",
+        "key": "9377811ebb1eaa5f57bfb310b488abc9"
+    },
+    {
+        "name": "The Amazing Praybeyt Benjamin",
+        "url": "https://iwant-video.akamaized.net/theamazingpraybeytbenjamin/9a43808b-37aa-4785-b09e-fba3f79c437d/manifest.mpd",
+        "logo": "https://pql-static.abs-cbn.com/images/theamazingpraybeytbenjamin.herobg-tv.jpg",
+        "keyId": "ac2898b11f7b48f7a86eb346c7d58938",
+        "key": "94953dba772719c3ad5f1f335c7f38d6"
+    },
+    {
+        "name": "Silly Red Shoes",
+        "url": "https://iwant-video.akamaized.net/sillyredshoes/3f8d65bc-1c8b-4e44-97a6-bf0d49626dde/manifest.mpd",
+        "logo": "https://pql-static.abs-cbn.com/images/sillyredshoes.herobg-tv.jpg",
+        "keyId": "7b0c5905785d4a8ab3da13f2318265eb",
+        "key": "86a7140d7952741557118ff56b289908"
+    },
+    {
+        "name": "Baka Doon sa Buwan",
+        "url": "https://iwant-video.akamaized.net/bakadoonsabuwan/968333c2-b56e-41dd-bf9f-8fa6fd7c4424/manifest-2.mpd",
+        "logo": "https://pql-static.abs-cbn.com/images/bakadoonsabuwan.herobg-tv.JPG",
+        "keyId": "9f3043d62ee543d3a2b4d429918a0f4e",
+        "key": "e082e855b5ca4da4cb4ee35f77b140f1"
+    },
+    {
+        "name": "He's Into Her Part Two",
+        "url": "https://iwant-video.akamaized.net/hesintoherpart2/227aceb3-fc67-47be-afac-36375a1b142e/manifest.mpd",
+        "logo": "https://pql-static.abs-cbn.com/images/hesintoherpart2.herobg-tv.jpg",
+        "keyId": "b36bcccf19d54ff7aa0d44c6b6de815d",
+        "key": "d038be3e860a6121a3adcd0863c92b3d"
     }
 ]
