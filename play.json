@@ -1,22 +1,32 @@
 [
     {
-        "title": "Spellbound",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/7266.mp4"
+        "image": "https://image.tmdb.org/t/p/w500/vvArzms4uGDAlqo6JfeAe0b4ro4.jpg",
+        "category": "Pinoy Films",
+        "title": "BuyBust (2018)",
+        "url": "http://scrennnifu.click/movie/tt5938084/playlist.m3u8"
     },
     {
-        "title": "What If?",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/953.mp4"
+        "image": "https://image.tmdb.org/t/p/w500/gtgltT1u4kVUJBocfRb1Xf2v1gu.jpg",
+        "category": "Pinoy Films",
+        "title": "Mama Susan's Friends (2023)",
+        "url": "http://scrennnifu.click/movie/tt27510021/playlist.m3u8"
     },
     {
-        "title": "Metro Manila",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/8880.mp4"
+        "image": "https://media.themoviedb.org/t/p/w220_and_h330_face/a1Eubtd5zCISRsGxpd3CiAYkBao.jpg",
+        "category": "Pinoy Films",
+        "title": "Lolo And The Kid (2024)",
+        "url": "http://scrennnifu.click/movie/tt32921458/playlist.m3u8"
     },
     {
-        "title": "Whispers in the Wind",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/15617.mp4"
+        "image": "https://image.tmdb.org/t/p/w500/Au0HeQRyMpNCIUI6rUeYVkcsjAw.jpg",
+        "category": "Pinoy Films",
+        "title": "Missed Connections (2023)",
+        "url": "http://scrennnifu.click/movie/tt27703325/playlist.m3u8"
     },
     {
-        "title": "I Love Lizzy",
-        "url": "http://103.236.179.86:80/movie/rictms/rictms/594.mp4"
+        "image": "https://image.tmdb.org/t/p/w500/hYGADLbf0I7VLe5i8pwjJ9dRYh4.jpg",
+        "category": "Pinoy Films",
+        "title": "Doll House (2022)",
+        "url": "http://scrennnifu.click/movie/tt22038236/playlist.m3u8"
     }
 ]
