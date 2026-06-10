@@ -35,10 +35,10 @@ def escape_drawtext(text):
 def build_ffmpeg_command(url, title):
     text = escape_drawtext(title)
 
-    # ✅ Always spoof VLC User-Agent for all formats
+    # ✅ Always spoof Chrome User-Agent for all formats
     input_options = [
-        "-user_agent", "VLC/3.0.18 LibVLC/3.0.18",
-        "-headers", "Referer: https://hollymoviehd.cc\r\n"
+        "-user_agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "-headers", "Referer: https://screenify.fun\r\n"
     ]
 
     return [
@@ -63,9 +63,9 @@ def build_ffmpeg_command(url, title):
         "-g", "60",
         "-keyint_min", "60",
         "-sc_threshold", "0",
-        "-b:v", "1500k",
-        "-maxrate", "2000k",
-        "-bufsize", "2000k",
+        "-b:v", "1000k",
+        "-maxrate", "1500k",
+        "-bufsize", "1500k",
         "-pix_fmt", "yuv420p",
         "-c:a", "aac",
         "-b:a", "128k",
