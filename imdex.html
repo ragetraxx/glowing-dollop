@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MANIFEST ANALYSER V1.0</title>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --accent: #3b82f6;
+            --success: #22c55e;
+            --warning: #eab308;
+            --error: #ef4444;
+            --kid-color: #22d3ee;
+        }
+
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .container { width: 100%; max-width: 1000px; }
+        header { text-align: center; margin-bottom: 25px; }
+        h1 { color: var(--accent); margin-bottom: 5px; letter-spacing: 1px; }
+        
+        textarea {
+            width: 100%; height: 120px;
+            background-color: var(--card-bg);
+            border: 2px solid #334155;
+            border-radius: 8px;
+            color: white;
+            padding: 15px;
+            font-family: 'Cascadia Code', monospace;
+            box-sizing: border-box;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+
+        textarea:focus { border-color: var(--accent); }
+
+        .controls { margin-top: 15px; display: flex; gap: 10px; justify-content: center; }
+        
+        button {
+            padding: 12px 24px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: bold;
+            text-transform: uppercase;
+            transition: transform 0.1s, opacity 0.2s;
+        }
+
+        .btn-start { background-color: var(--accent); color: white; }
+        .btn-clear { background-color: #475569; color: white; }
+        button:active { transform: scale(0.98); }
+
+        #results { margin-top: 30px; width: 100%; }
+
+        .result-card {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-left: 5px solid var(--accent);
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        .source-url {
+            font-family: monospace;
+            font-size: 0.85em;
+            color: var(--text-secondary);
+            word-break: break-all;
+            background: #0f172a;
+            padding: 8px;
+            border-radius: 4px;
+            margin-bottom: 15px;
+        }
+
+        table { width: 100%; border-collapse: collapse; font-family: 'Cascadia Code', monospace; font-size: 0.9em; }
+        th { text-align: left; color: var(--accent); border-bottom: 2px solid #334155; padding: 10px; }
+        td { padding: 10px; border-bottom: 1px solid #334155; }
+
+        .type-video { color: var(--success); font-weight: bold; }
+        .type-audio { color: var(--warning); font-weight: bold; }
+        .type-offline { color: var(--error); font-weight: bold; }
+        .kid-value { color: var(--kid-color); font-weight: bold; }
+        .bitrate { color: #94a3b8; font-style: italic; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>MANIFEST ANALYSER V1.0</h1>
+    </header>
+
+    <textarea id="urlInput" placeholder="Enter the manifest URLs to analyze below..."></textarea>
+    
+    <div class="controls">
+        <button class="btn-start" onclick="startAnalysis()">Start Analysis</button>
+        <button class="btn-clear" onclick="clearAll()">Clear All</button>
+    </div>
+
+    <div id="results"></div>
+</div>
+
+<script>
+    function fixPadding(str) {
+        return str.padEnd(str.length + (4 - str.length % 4) % 4, '=');
+    }
+
+    function formatKID(kidHex) {
+        if (!kidHex || kidHex.length !== 32) return kidHex;
+        return `${kidHex.substring(0,8)}-${kidHex.substring(8,12)}-${kidHex.substring(12,16)}-${kidHex.substring(16,20)}-${kidHex.substring(20)}`;
+    }
+
+    function deepDecryptKID(xmlText) {
+        const prmMatch = xmlText.match(/<(?:prm:)?PRMSignalization>(.*?)<\/(?:prm:)?PRMSignalization>/);
+        if (prmMatch) {
+            try {
+                const decoded = JSON.parse(atob(fixPadding(prmMatch[1].trim())));
+                if (decoded.keyId) return decoded.keyId.replace(/-/g, '').toLowerCase();
+            } catch(e) {}
+        }
+
+        const kidTagMatch = xmlText.match(/<KID>([^<]+)<\/KID>/);
+        if (kidTagMatch) {
+            try {
+                const raw = atob(fixPadding(kidTagMatch[1].trim()));
+                const bytes = new Uint8Array(raw.length);
+                for (let i = 0; i < raw.length; i++) bytes[i] = raw.charCodeAt(i);
+                const a = bytes.slice(0, 4).reverse();
+                const b = bytes.slice(4, 6).reverse();
+                const c = bytes.slice(6, 8).reverse();
+                const d = bytes.slice(8, 16);
+                const finalBytes = new Uint8Array([...a, ...b, ...c, ...d]);
+                return Array.from(finalBytes).map(b => b.toString(16).padStart(2, '0')).join('');
+            } catch(e) {}
+        }
+        return null;
+    }
+
+    async function startAnalysis() {
+        const input = document.getElementById('urlInput').value;
+        const resultsDiv = document.getElementById('results');
+        const urls = input.match(/https?:\/\/[^\s,|]+/g);
+
+        if (!urls) return;
+        resultsDiv.innerHTML = "<p id='status-msg' style='text-align:center'>Analyzing...</p>";
+
+        for (const url of urls) {
+            try {
+                const response = await fetch(url);
+                if (!response.ok) throw new Error();
+                const text = await response.text();
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(text, "text/xml");
+
+                renderResult(url, xmlDoc, text);
+            } catch (error) {
+                renderOfflineState(url);
+            }
+        }
+        
+        const statusMsg = document.getElementById('status-msg');
+        if (statusMsg) statusMsg.remove();
+    }
+
+    function renderResult(url, xml, rawText) {
+        const resultsDiv = document.getElementById('results');
+        let streamData = [];
+        
+        const extractedKID = deepDecryptKID(rawText);
+        const adaptationSets = xml.getElementsByTagName("AdaptationSet");
+
+        if (adaptationSets.length === 0) {
+            renderOfflineState(url);
+            return;
+        }
+
+        for (let ad of adaptationSets) {
+            let type = ad.getAttribute("contentType") || (ad.getAttribute("mimeType")?.includes("video") ? "video" : "audio");
+            let kidVal = extractedKID;
+            if (!kidVal) {
+                const cpTags = ad.getElementsByTagName("ContentProtection");
+                for(let cp of cpTags) {
+                    let k = cp.getAttribute("cenc:default_KID");
+                    if(k) kidVal = k.replace(/-/g, '').toLowerCase();
+                }
+            }
+            const formattedKID = kidVal ? formatKID(kidVal) : "Clearkey/None";
+            const reps = ad.getElementsByTagName("Representation");
+            
+            for (let rep of reps) {
+                let bw = Math.floor(parseInt(rep.getAttribute("bandwidth") || 0) / 1000) + "k";
+                let res = rep.getAttribute("width") ? `${rep.getAttribute("width")}x${rep.getAttribute("height")}` : (ad.getAttribute("lang") || "und");
+                streamData.push({ type, res, bw, kid: formattedKID });
+            }
+        }
+
+        streamData.sort((a, b) => {
+            if (a.type === 'video' && b.type !== 'video') return -1;
+            if (a.type !== 'video' && b.type === 'video') return 1;
+            return 0;
+        });
+
+        let rowsHtml = streamData.map(row => `
+            <tr>
+                <td class="type-${row.type}">${row.type.toUpperCase()}</td>
+                <td>${row.res}</td>
+                <td class="bitrate">${row.bw}</td>
+                <td class="kid-value">${row.kid}</td>
+            </tr>
+        `).join('');
+
+        appendCard(url, rowsHtml);
+    }
+
+    function renderOfflineState(url) {
+        const offlineRow = `
+            <tr>
+                <td class="type-offline">OFFLINE</td>
+                <td style="color:var(--error)">N/A</td>
+                <td class="bitrate">N/A</td>
+                <td class="kid-value">N/A</td>
+            </tr>`;
+        appendCard(url, offlineRow, true);
+    }
+
+    function appendCard(url, rows, isError = false) {
+        const resultsDiv = document.getElementById('results');
+        const borderColor = isError ? "var(--error)" : "var(--accent)";
+        resultsDiv.innerHTML += `
+            <div class="result-card" style="border-left-color: ${borderColor}">
+                <div class="source-url">SOURCE: ${url}</div>
+                <table>
+                    <thead><tr><th>TYPE</th><th>RESOLUTION</th><th>BITRATE</th><th>KID</th></tr></thead>
+                    <tbody>${rows}</tbody>
+                </table>
+            </div>`;
+    }
+
+    function clearAll() {
+        document.getElementById('urlInput').value = '';
+        document.getElementById('results').innerHTML = '';
+    }
+</script>
+</body>
+</html>
+ 
